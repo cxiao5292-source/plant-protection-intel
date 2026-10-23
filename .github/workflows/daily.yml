@@ -1,6 +1,12 @@
 name: Daily Intelligence Update
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "scripts/**"
+      - ".github/workflows/daily.yml"
   schedule:
     - cron: "15 0 * * *"
 permissions:
@@ -14,8 +20,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout workflow commit
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -27,8 +35,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          git diff --cached --quiet || git commit -m "Update daily intelligence digest"
-          git push
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update daily intelligence digest"
+            git push origin HEAD:main
+          fi
   deploy:
     needs: update
     runs-on: ubuntu-latest
@@ -36,8 +48,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout latest files
+      - name: Checkout latest main including freshly collected data
         uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload site artifact
