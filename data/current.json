@@ -1,156 +1,28 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-10-27 11:18 CST",
+  "updated": "2026-10-27 10:18 CST",
   "items": [
     {
-      "category": "visa",
-      "title": "Changes to student visas - Immigration New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhfQUZtZlJqMjhHQmlKN0VHZi1FU2RSbVdHdVZHMnRkUHhYZU96YWpFT0w5bWlkakk2U090UTFTRTZnNjFZRXEtU3hVMmJoaGxucmg4aWxxdFhuSE4xeWEyTDdkSzh0YTBIbWdrNll5MTA5dU00SnBRR2ZvQkVlMng4Um8?oc=5",
-      "summary": "Changes to student visas &nbsp;&nbsp; Immigration New Zealand",
-      "source": "Immigration New Zealand",
-      "date": "2026-10-27",
-      "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
-    },
-    {
       "category": "global",
-      "title": "The Rise of Electrostates Could Redraw The Global Economy - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVV9oSjE5cVJJXzJmeFVzeXJxRHBRUWhOb3lqUDFoRnMtNjJyd0dlSnhoVWUyZElyNXhsWU1ILXdqMC0tX0h0YnlOb2xNMl8wWGc3azFNSGQxQm1VVWVZbHRCQWdnV1hRanhBRmNoZXlZaEk?oc=5",
-      "summary": "The Rise of Electrostates Could Redraw The Global Economy &nbsp;&nbsp; Time Magazine",
-      "source": "Time Magazine",
-      "date": "2026-10-27",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "At New York Climate Week 2026, MIT connects with a global network - MIT News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWF4OEpKNm9nLURnWUhpR2xLd29SdzZOX293bXZQbnN5emd6V3JSOE5rOFhyckRPTThCOXdPQjM1dk5nWmFfd3gwUU04cG5lX21iUVE1Sy01WklndGlHX1AtdlZjdDVCRndtd0hKWU4tY1ZHcXJFMlhsemQ1QlVGWFZOMUtCLXNFTFh3?oc=5",
-      "summary": "At New York Climate Week 2026, MIT connects with a global network &nbsp;&nbsp; MIT News",
-      "source": "MIT News",
-      "date": "2026-10-27",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "summary": "Weekly market commentary &nbsp;&nbsp; BlackRock",
-      "source": "BlackRock",
-      "date": "2026-10-27",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Lesotho Prime Minister: Strengthening Partnerships between Privat Sectors in Developed, Developing Countries Supports Balanced Global Economy - Qatar news agency",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd01WWXZacjJuc3o5U0NKLTRIOXByYkxGR3VyVVB3eFlzZS1YVEE0T0pPZ2hXVW5tTkJTT1NVXy15MkJKNmlzMW1sLXJQdGwwRnh6RkxFN2RmaUl0S3lsREFMaGpBZVI2czIzWGNnMWhXbDY3c2Fsalhnd2gxeEcwczlVLVI2TzNDQThDMGNmZFhUdUlqQXpCYWNmZzRVV2pYU1FETl9kMjhFSmdHSEd6WHcwdDk4NVFmeW1JRTE2SGp6T1RVcjVadTRiVXkzVUhMSnpub3BHdXlaUDBDZUhIc1VRSF93UlE0U0s4MFlaZFQ4MDh1d19RY3l5My1zR19kQ1RRNS1SR0c2WnlxNUhJX1ZIVllYZw?oc=5",
-      "summary": "Lesotho Prime Minister: Strengthening Partnerships between Privat Sectors in Developed, Developing Countries Supports Balanced Global Economy &nbsp;&nbsp; Qatar news agency",
-      "source": "Qatar news agency",
-      "date": "2026-10-27",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "President, Winrock delegation discuss development priorities - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUi1yS2RfckVqT0phbjNTVDZWZ0pEMjZzVU1tT2ZGV2dPeFNPclAzZmpaV0RHeHdSckxwNExucGR5di1nWW5BWmVzNV91R3JJV292Vk1tcTNxMFFnVGJ1b1F4TzBMTGkwd2FDZU5tY1JtTDRMMWthZXRVYWRqZkc0TENiOGI0U2hBZzJNU3JHRXNSUEZaYkFGU3RlUzhPVlpZNGdCWGd4UTJsTjlPM0dz?oc=5",
-      "summary": "President, Winrock delegation discuss development priorities &nbsp;&nbsp; The Daily Star",
-      "source": "The Daily Star",
-      "date": "2026-10-27",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Resilient growth for China in a turbulent world: how a triple logic of clean, secure and cheap can drive the country’s economy - The London School of Economics and Political Science",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM2taQU9BdWVsYkZ2RmV6SkQzVTNCRGRVUi1ad2RYMzdyaXhBNHNJOEo1dkM3VmxxQ0l1dndOR3ktNDM2VXBubXRBZmMyWUZmOU1wVXNqeU4tUEhRRzZtb3R6SU95Z2JIZmtvY0xaWUIzc25ZTXpIczN3TXNpaGhSbHVvQTBPQkZ2aWI4YWIwd0ZEWFczWlZLQXRUZThzbVNSdGx1dl85OGllVnhXQkpNaWVmNFpGVjlSZTJPbE9leTBvOTJfckVqenh5R3BzejFrMElwWVlWZFlwdXJoN3dBajdleXlUdXhrOTYyMUFfZWktMlJMUnk1bHNQdVB1YVdVdjluWVNfTQ?oc=5",
-      "summary": "Resilient growth for China in a turbulent world: how a triple logic of clean, secure and cheap can drive the country’s economy &nbsp;&nbsp; The London School of Economics and Political Science",
-      "source": "The London School of Economics and Political Science",
+      "title": "Pioneering the global green transition: Hong Kong’s dual role as innovator and financier - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkctdWFrV1dsZTFoNkxud05MSTl2VEZUZ2pkb1FDRzduSVdlUmdIWWpHSlhzNDNhdENidDdwbWFMeHo5aWpmOFMtaHM4R0xVMWJRZklieVBrc3RBT0xWMk1XZ0VzdzhldDRhWTdvSUgyYlZkRDZ0cGJfbHJmazdoYzlMbDE5bnNHdFZiek1aZklQNDcxbTc5WFdQNDVmMDBsWVBaRHpRN0lUYmtpaG5lYkVMaUpvQ2RZREd5M2pHMU9MeFp2MTV0dUpKVTQ1WXBjOGlZRlk3eVA2Zw?oc=5",
+      "summary": "Pioneering the global green transition: Hong Kong’s dual role as innovator and financier &nbsp;&nbsp; The Standard (HK)",
+      "source": "The Standard (HK)",
       "date": "2026-10-26",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "global",
-      "title": "Europe must look beyond the US and China to solve its productivity problem - PubAffairs Bruxelles",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlE4bXpsUjY5Zjk3VGc3bi13cTFWSUY3RVlwcXVJZXdiVFlBbHcxNmx2THVRZVRSakx4Y0FQYmUwUmlRSVpHUkJPeE5TckRpRG80N0hWQzdsSnlaMlJhTTIzSGdtQ2pid0w4TEU5T1ZTZjR5WVBrVVFzbTA5QW5nOVdBU2NmcVJZVm4tMUJ1ZEhPdy1jUUQ5ZW4wWFE5ekdzOUxLNGFrT0tOS3RXZXJLbzZLczhPRjJ3OFdXYThnQU41ODQ4b1E?oc=5",
-      "summary": "Europe must look beyond the US and China to solve its productivity problem &nbsp;&nbsp; PubAffairs Bruxelles",
-      "source": "PubAffairs Bruxelles",
+      "title": "Rekkache attends opening of 9th World Investment Forum in Doha - وكالة الأنباء الجزائرية",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3JEc3YzSi1zX0UzUzVRaTJOemJjek1aQUdTZWhOQVI4YThLSjNGTEppTVFFT1ZSbDVnYTFfLXBuUW1DbDVHVDJXM3FRckN4N2t5NVl5bUh3cExheUtfY29HXzFrcnlaMkIxUVg1M01SV0ljOHF6ampGakgzU3VZbTZWbXdnZXhZbzJueHVvcDJSS0FreVFkelVySEx4MHlpOUVQWVVQbXVZcmlHLWRnYUU5V3FUVFU?oc=5",
+      "summary": "Rekkache attends opening of 9th World Investment Forum in Doha &nbsp;&nbsp; وكالة الأنباء الجزائرية",
+      "source": "وكالة الأنباء الجزائرية",
       "date": "2026-10-26",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "'It's offensively cheap': How solar power is quietly becoming bigger than nuclear - BBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRzhFSm5wNXBfOFFUNlJaRmFaQndTd0VXZjdBd2syYWVrSW43cnZyM0tRN3BtdllQakh2am5IUHF3cTRCTXMzZE5jeUxQX1JrMWtkWmRudmJrUTZ2T3BDU25VVFVOSU5qeDJKVDJ2S2FnNU1HWE5nLTE1NnVXYmtJSlBEX01lUUE?oc=5",
-      "summary": "'It's offensively cheap': How solar power is quietly becoming bigger than nuclear &nbsp;&nbsp; BBC",
-      "source": "BBC",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Hamdan bin Mohammed approves new targets for Dubai AI Campus - www.wam.ae",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWWM1alR0TkJoSUVVMXVsR0tDUGVWQXhEaUhsU2FFQ3Y2ck01LV9LeEtYS1BtOEJkT2R2OVBfeWo1a05FTjl1dXlnYlJDTld6eVBFRG5tUzRLbXBIa3loWUFVMGZMNG54MktjTGIwQWpYWXd5WkhaZUQ2aHBseUpES2dMR1RWMmJORjFITUFYMU5FZw?oc=5",
-      "summary": "Hamdan bin Mohammed approves new targets for Dubai AI Campus &nbsp;&nbsp; www.wam.ae",
-      "source": "www.wam.ae",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Deep Dive: Why Is Food So Expensive? - Minnesota Women's Press",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIc1BmWEY0MnVnalZzRTBjQWNkeVRvUWpPQ2JJVFZiWElLV1NOZTBEWmxNbmdqeksxMXRObEJmODVXMjliNWJPYlh3dno5VnpteldPVnRMT3B0UFBJaWxjbEt4WDdIcWJKbjgyVE9pLUY?oc=5",
-      "summary": "Deep Dive: Why Is Food So Expensive? &nbsp;&nbsp; Minnesota Women's Press",
-      "source": "Minnesota Women's Press",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Philippines | Reject Pax Silica: Defend Food Sovereignty, Democratic Control over Land and Water, and Climate Justice - La Via Campesina",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkdhZjVNdUhKX2dOMlpqb2p4R0Qza3hJRnpMS3RQdmNycXZ1RnpiMEhubl84RDFCQ2VVUnFQM0VwQ29fWjczQldLVHZqTHFNaWZEQnlXdGxwcnBvOGNtUmdFTjdpWFBDWXhRX1FXRFJMZ2N4d2J3cG0waFFOVWNUbVVIdFpJQlQta205ZWpnSy1hTklHdThsR2pEajdPTThBSEFjM3FBdTlxWGRvdGhfaXJMSlEtX2N1T250RTE3NDZTRDNQLV9RNjdCeGsyOGdjdUV3YzFWN3I2Yi10WGR3azFXSQ?oc=5",
-      "summary": "Philippines | Reject Pax Silica: Defend Food Sovereignty, Democratic Control over Land and Water, and Climate Justice &nbsp;&nbsp; La Via Campesina",
-      "source": "La Via Campesina",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "El Niño threat, rising farm costs may push global food prices higher in 2027 - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0l4UFVVOERUcWl1dUtYWk9fRDU1TnZlcVI0NlVjM044b2xDeEdnRS1LV2hMTTVCUEVFbFYzX0NzRFZ3SVRIZGhsQmRsaXRMU2FMZXFiUko3dlRtYWhfUFNwdlpBZlY3MmNtM0o2Ti1zSUx3T0lnVVpEUWVsUktzcE5Va3NPZDRTWDhMUUhQd2tMYVlCN1BsUTVzb3E5dS0zcXlGT2ZjUFRycHZoRlNCNFRtTHR5ODAtRm9nTEFQa1ZZcEhGaHlz0gHHAUFVX3lxTE9zSXhQVVU4RFRxaXV1S1haT19ENTVOdmVxUjQ2VWMzTjhvbEN4R2dFLUtXaExNNUJQRUVsVjNfQ3NEVndJVEhkaGxCZGxpdExTYUxlcWJSSjd2VG1haF9QU3B2WkFmVjcyY20zSjZOLXNJTHdPSWdVWkRRZWxSS3NwTlVrc09kNFNYOExRSFB3a0xhWUI3UGxRNXNvcTl1LTNxeUZPZmNQVHJwdmhGU0I0VG1MdHk4MC1Gb2dMQVBrVllwSEZoeXM?oc=5",
-      "summary": "El Niño threat, rising farm costs may push global food prices higher in 2027 &nbsp;&nbsp; Firstpost",
-      "source": "Firstpost",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "El Niño threatens to deepen southern Africa’s poverty crisis - Daily Maverick",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSFV6QmhPMmJtU0V5VmdxT0lHbFk4MEstZ0dSMm4teVBKMHA1NjAyMXQ4YnUyU0RvMFkxYU1YWjNsbkhta1hHTm9Sa1htT2I5dkcxeE9sdlozbTVjZ2ViaTJHS0JlMURaVFhtS0d6czZISGJtaHZYN2I4QlNybEhuRlBQbV94dUphVXJ1Rk95N0lpazhNd1luSXUwbExBMzE0V1lMVGI5LUp5a0pCdkZMNm1GTHlQdw?oc=5",
-      "summary": "El Niño threatens to deepen southern Africa’s poverty crisis &nbsp;&nbsp; Daily Maverick",
-      "source": "Daily Maverick",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "GEO Conflict Watch | Executive Summary - Key Developments & Strategic Synthesis (Week Ending Friday, October 23, 2026) - OODA Loop",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR2dRcXcwNmZQem81V0phbVlKYXFkVm1PUUNxSXE1eFBGaGRMZmM1NXNmaUtCT0M5ckhKd3pCd2k5Rk0wR2pIbm9PbEg2aTg0MHBGVTlESUFGb1ZLeEtCZDBzd2FFZDBtM1VjRWo5UmQtcHo5cHJUT2xVZlpfekFkaldvcEpVUzBqVXFENW1fWko5MXI4YlZxMVhkbE5zR1p0UWJYOHAwLXRCUVdEOVRyUEJvdFBLZXFKUm03ZkhDb3pqZDRiX21EbGFlQThtcUxXZEthT3JiTzQ5cTVNYnBTTWZTcw?oc=5",
-      "summary": "GEO Conflict Watch | Executive Summary - Key Developments & Strategic Synthesis (Week Ending Friday, October 23, 2026) &nbsp;&nbsp; OODA Loop",
-      "source": "OODA Loop",
-      "date": "2026-10-26",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "global",
@@ -160,7 +32,19 @@
       "source": "ENA English",
       "date": "2026-10-26",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "Expert Raises Concern Over Rising Food Costs - The Tide News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDJsRlhRb1phZE1TS2ZoZzNWMlBmT2N3MkJiUkszby1UaF9RSDJkMVYwNUo3aDdRSmRaVFg1LU5IZFFPQXNTdVNKQWVLZl9rcTIwLTBCZlZ1SWZSN0tiaEp5SWRFN3hQV0xxZExlelQ2eTZfVGJVMU4xblEwQl9NcHRBRXZKZUxQVHZyTHc5OGM?oc=5",
+      "summary": "Expert Raises Concern Over Rising Food Costs &nbsp;&nbsp; The Tide News",
+      "source": "The Tide News",
+      "date": "2026-10-26",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -170,47 +54,8 @@
       "source": "AgroLatam",
       "date": "2026-10-25",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "The GCC States Are Open to the World, Advancing Towards Deeper Economic Integration, and Looking Forward to Building Long-Term Investment Partnerships That Achieve Mutual Interests - الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ybDlNX01sZFg4LU1mQThfVll1MDFyUFdmZWtXYk96QUxKTGpEZ3NKOVdTcElzRWxsMGJMOXB5UUZpU0lEX2RPVTZUYTNkSzU3cWdjTTJVMTVmVG94ZDRRYTZKZlBrQnp4NXRSUnB2U0NheE4xaC1WSUJR?oc=5",
-      "summary": "The GCC States Are Open to the World, Advancing Towards Deeper Economic Integration, and Looking Forward to Building Long-Term Investment Partnerships That Achieve Mutual Interests &nbsp;&nbsp; الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-      "date": "2026-10-25",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
-      "summary": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
-      "date": "2026-10-25",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Paris Agreement - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DbUZ6d3hpWC1ZZThndTk3elFlX01HRmtYcFJrS0FHZWZ1T2lGMUJiWnoxdDFzNWJ0X3dReGJRSk9XMF9zUlg3WHlmQjBGRVlTR2paVE5WbExLbEZ1aWlESC1IWQ?oc=5",
-      "summary": "Paris Agreement &nbsp;&nbsp; Britannica",
-      "source": "Britannica",
-      "date": "2026-10-25",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Minister of State for Foreign Trade Affairs: Qatar Has Pursued Openness, Flexibility and Partnership Amid Global Economic Shifts - Qatar news agency",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRDFyU01BNVBtNERDQzQ1MWZkeXhZR2pwU1B0TUhDN080Z2YtaEI3eXRXT0dXS1l2SDlXS0phM2JaTmlNZFcyYjBzUUdVTndCWENoek5OaHlBTVJQMV9EUUpBSFRyeGZuRVVWcTc1d1FXbjBUY1I2UlFhZ0tXVHRrNTgxNGRTeVNzNEZxT1hXOWNLNmMyc2IxTS15T2JoNU1Vbno0TE9wb2Y4cEJReVJscEF0VmFSc1RfNmg1dUZfaXY3aVJUOXVkN0FOVk1qN2ZUYTBJZTBNYXlIUmxkR1o2Z2hJVkhvNlVWbFpGSU52dWdWcE5wWUxiZGExc2xVTTcwQktjbQ?oc=5",
-      "summary": "Minister of State for Foreign Trade Affairs: Qatar Has Pursued Openness, Flexibility and Partnership Amid Global Economic Shifts &nbsp;&nbsp; Qatar news agency",
-      "source": "Qatar news agency",
-      "date": "2026-10-25",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "global",
@@ -220,7 +65,129 @@
       "source": "https://debuglies.com",
       "date": "2026-10-25",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "global",
+      "title": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWUEwbGQzcGczbVRKcXRoNHB3QmtLMENVMzFfd0xnWmN3aWRILU5CRTRWR0pFdnhQdGFsLXJwa01WR2N1S0JCQUxxdFRkRGZHaWFlakYxMk1YdDBCRDFXQjhDeFNMZmlyWnFsVjFaY21FZUdNdDg1RXdKM1JSb19jVVFTVTJFREFfRFN3TTRVbzNpY21mYXdZVmhwYl9wM0JrTGRvLUJ30gGrAUFVX3lxTE13aGdnRGlNem9jTGFaMTYwZjc3SVZ3bGFhYVhQVnVXVVJQZ2lzVHFqT3VONnBFbWpGVUw2VE52U0xSTmozSGJSM2d6dEF6Z2FiZjF3VWdMdHRUcWRYYjhKRjltNGVNeElDNGY2UVlvLVZRUkJrZGxvTERNRDF0MUk1dTRUWWFMNnpTWTM0b1BHU0JLeTBBZVJON2s2dE5jblB5Nzl5dEFiMnNPcw?oc=5",
+      "summary": "'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "date": "2026-10-25",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "Grain vs. gasoline: How the global biofuel boom threatens India’s food and water security - Counterview",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHBNLTNSczZCUlBmWGhiLU5DdjRjazRSck5YVWZwekJHRkFEMXRmRU9jbmlwUno2d2VwUjV1Ry1CME9NS2N2SzRpbWxnTV9rVERVYXA2SkJMMVZfUjRnb01ESVRmR2VlMUFUMUNwOF9Kc3pjVWdNN0tmWUFZRmxKSnUwMA?oc=5",
+      "summary": "Grain vs. gasoline: How the global biofuel boom threatens India’s food and water security &nbsp;&nbsp; Counterview",
+      "source": "Counterview",
+      "date": "2026-10-25",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "global",
+      "title": "India reopens wheat exports as record production creates $1.5 Bn opportunity - AgroSpectrum India",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQREN6eVVjM3Y4RUR2VlpmbjRKOHVVMllrWFJqSGlCUUFieWlUbzFYYjQtdkRrMFFaM0Q0U1VmLWNZcFFIR3NzQWlHazJTbnlUcDF6ZUZ2dGpUbHhIYTVkYUlvTWdhRmJYY3p6c3d4MFRvZHpITndIYi1naVF5VkE4aDh1WnZnY1lNVFRSMnBWU1hXN3hTb1diU3ItVFh4cTU2cTFvNm54eFVzUFNDdlYtRGNCMmlpQ04yTUVOZmg1VWF3QzVFVnhmVi1OUHM2VWRhT2g2aDlyMA?oc=5",
+      "summary": "India reopens wheat exports as record production creates $1.5 Bn opportunity &nbsp;&nbsp; AgroSpectrum India",
+      "source": "AgroSpectrum India",
+      "date": "2026-10-25",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "global",
+      "title": "India Holds 40% Of Global Rice Exports, Experts Say - Sarkaritel.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzhnRkpWOEFtdWRoWkUwVGpOV0lCc2R0MGpFUmdmdGwyMV9RVlZaT0lxYmNLbnJ5SFNGUGxDWTN6cjVVejkwNDNxcUtmaUpxNzA2S0NBblJGRk5wV1BHd2FmelRtS3FZMXItSG1kZGhoOGxJbmQzOU56bTlITTYtd2toZDU?oc=5",
+      "summary": "India Holds 40% Of Global Rice Exports, Experts Say &nbsp;&nbsp; Sarkaritel.com",
+      "source": "Sarkaritel.com",
+      "date": "2026-10-25",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "global",
+      "title": "Anchored in Resilience: How Jordan’s Economy Navigates Regional Turbulence - The Jordan News Agency - وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWJXTGY2RUowbjgtdUR6N2psbW5MVjlMNC13Mk9kYWgwOFFqdTNqSjQ2dWVwQUZkV1VJaDRuOU0zSjBVaFVOekxpTElZeHRwRkozZU5KUEpSa1lDT0I3WmVCMU14anluLVB5YU9pUU1KcnJPWURGb0tuekcyT18zOW12emNkY1o2NVpoYTBLWlVoUHFwOWc3bTNueUhxN1hsb013?oc=5",
+      "summary": "Anchored in Resilience: How Jordan’s Economy Navigates Regional Turbulence - The Jordan News Agency &nbsp;&nbsp; وكالة الانباء الاردنية",
+      "source": "وكالة الانباء الاردنية",
+      "date": "2026-10-25",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "India-Sri Lanka Ties: New Model Village in Galle, Agriculture Talks Strengthen Bilateral Bonds - Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV2JkdE5zVmdYanlLUm12UWkwQ2FONHpmUThwLW53M2Rib0lsRVNTbDdQQWhuUlNHSXZycDJ0OW5vQUwwQXhZc0hoS196X0xTUWdGbktUdGJXZk00M3BIX3pEUjhTQ2RxNG02TFB1ZnZQUlphSS1kRTdzUDF5NFBFV0ctQ0ZocWk3ZkRzTVU2ODNreGhWS0d4ejZYNXA3bGpUMEY4OHdWT0hKdGxhWVl5QVFQbXU0Qy1aeDc2a1hhQkFJS2hsT1ZnVWFLZjhfam1wXzBnbTdYY1k2MzRz0gHiAUFVX3lxTE9YQXFSTVJGa2syREhFM3JOV21uSWNHbkZkeEVFejRRdlBGTmZsNHUzb01vOUhoYnI5WVdjTU9pRXZPWlVxRnVPNHgyVGU3SVgtTmJDdW9tTk1qYVFkcnFNS0gzVjE4TFdod21TTXNNeGMwMWRBZGZ1Wk0wVUlFcm5Fb182SzNFNUZvZTc0ZUdOUkNfY0FuZ3dnZUc2YnpnZHNHQUVlcndvWURMN2gwX1gtOVdsRWVkN2tLRGEzandqY3prLXFwME41ckpZTVNQTUVMSWNZaFREbk1CTldXdkNfRHc?oc=5",
+      "summary": "India-Sri Lanka Ties: New Model Village in Galle, Agriculture Talks Strengthen Bilateral Bonds &nbsp;&nbsp; Lokmat Times",
+      "source": "Lokmat Times",
+      "date": "2026-10-25",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "plant",
+      "title": "Pakistan upgrades plant quarantine, pesticide testing laboratories in Karachi to strengthen agricultural exports - Profit by Pakistan Today",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLWczekhzeGpTanBCQXRQTmpVVHFiaEFaWVFnWVZ5Q1lZdlZqQmdUNFFqZ1hGQmFrbmM4QmI3MXBmQWFJUWhlVHZOeHpXVGNubzVVN2ZOTDhoVHhfS2xLOTJlQjZFZkN1RU5ieWdZRVRSY2hJRHVMcW9xRTlEZFZYS0N1RU5iNlRFdVFlQ3pJc01yN1BPZGFaakZicWdyOU5KZzdmVVFWZm5WQ0tnTGhaRWVhYnk4dmZVRjBzdl9oaXNhOXVNcTQ5ME91YTdTTi1xNVV1UjJwcVBsNXZFODl1OXNpU1dvd3FjQ1YwOTFwaw?oc=5",
+      "summary": "Pakistan upgrades plant quarantine, pesticide testing laboratories in Karachi to strengthen agricultural exports &nbsp;&nbsp; Profit by Pakistan Today",
+      "source": "Profit by Pakistan Today",
+      "date": "2026-10-24",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "high"
+    },
+    {
+      "category": "global",
+      "title": "How an Amazon Frontier Town Became a Bolsonaro Stronghold - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnU0dVFSaUgtWW41Vm1FMC1udWFJeVJpWDBKZ0dkc1ZaZFNCM1ZLSGFtOWtVRmpqcGZOaHllQTNaR0tpYkpkOGhySDBPcENuYWN4X0JPR3lPczFTU0hDQzZGZVl3Mnhlejg5ckNwS29BbUhSS25zMUp4bjJwODlNTm5HTUZfMlZYek1Eb3F3ZlZOb3JTNDFsTXhyQnpHdW5iRlNTMlhBZ3J3SlI1U2JKM29NR2VpQmoxRHVCaV9CRU9Jd0ZH?oc=5",
+      "summary": "How an Amazon Frontier Town Became a Bolsonaro Stronghold &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "date": "2026-10-24",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "How to Make Drilling for Oil Woke Again - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HdC1RWTRaSEJDNzV0a1RYYmlpdDd4OWlhOUk5eFFVRjlfbk1rS3YzWllqbFNabFFSY0RTZF80UjZfdVZ2R2t3VXBaQVlSeUZnQzBGdDRwVDl0NjMyaDhUNkNJRWdaQ3EyN3dCTnU0UkhaRDh3b3NrRlNR?oc=5",
+      "summary": "How to Make Drilling for Oil Woke Again &nbsp;&nbsp; EnergyNow.com",
+      "source": "EnergyNow.com",
+      "date": "2026-10-24",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "Indonesia-Thailand: Toward An ASEAN Food Resilience Belt – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTlCem1FeWNpSzlzMmpna3JRcTNLczA4TUZ2NXBRRjNWckJNM2dUcTBuTi1pcnI1MXpReEc5V1gtWDh0dnZ1SjZjclE1NzZFS2taNVlBejYtNXlMQ3hTN1E2Q3ZhMEhkeDdabGxpcng3T2xUZDhKMTU3Wi1tcjVMU3ZFazVsZmFhN3Y5T1VocGx0aFloejJfM1dfaF9WdTdzMzlpdXRaVQ?oc=5",
+      "summary": "Indonesia-Thailand: Toward An ASEAN Food Resilience Belt – Analysis &nbsp;&nbsp; Eurasia Review",
+      "source": "Eurasia Review",
+      "date": "2026-10-24",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "global",
+      "title": "Geopolitical calculations shape the next Russia-Africa summit - Africa - World - Ahram Online",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KclBmVF84ek1VUXRYRTNuUVE0MG1mTU1aOWNjVU1sSUljM0t2UVhYTElKQ09GaExqdXQxVWc5RGdCZXV5SnR0dHg4a041U2k2VHcySldhcUo?oc=5",
+      "summary": "Geopolitical calculations shape the next Russia-Africa summit - Africa - World &nbsp;&nbsp; Ahram Online",
+      "source": "Ahram Online",
+      "date": "2026-10-24",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "visa",
@@ -230,7 +197,8 @@
       "source": "USCIS (.gov)",
       "date": "2026-10-23",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "plant",
@@ -240,37 +208,74 @@
       "source": "State of Michigan (.gov)",
       "date": "2026-10-23",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "global",
+      "title": "Low-carbon technologies support energy security by buffering energy price shocks - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnWkRPX011eDRCeU5XSUJ2LV9hQ2ZFbC1GbWtadUdIcTFCVjJMXzFYa0phVWVIN292Y2hzci15RzB1TDhReFc4a3lOUVJkbHJwcm50b1Z2SUFVZmdHZGo0?oc=5",
+      "summary": "Low-carbon technologies support energy security by buffering energy price shocks &nbsp;&nbsp; Nature",
+      "source": "Nature",
+      "date": "2026-10-23",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "Tallying Europe’s Losses From a Summer of Deadly Extreme Heat - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlZxekZrZVdQV3BiRFAya2l0dTRENTc0cUh6d3B1QzdhYTdSN21xaF8wZF96X1lSU2dYSjB5em56NkpnSXQ4SUJJQ050OHF6VkxyR2hQUDEtMWl6bkJ4ZHhEd0FXb0xCM1pNLWxjLWRvNTZ4a3lxRHVBSWNNZFJhNmZHSVhubVVvRHIxemZNWGYxMU5RdTJ6SGxuYVBNaWNFUGxTeWMxLXRvdUNONmpaVnFQOA?oc=5",
+      "summary": "Tallying Europe’s Losses From a Summer of Deadly Extreme Heat &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "date": "2026-10-23",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "A 2,600% Surge for a TV Campaign Spot Tells the Tale of Texas Elections - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjRkMG9HcFdtbjg1ajVtMGhOMFpOVFRjRGZxc0QyT19TVHFoN3pSRlNnRTM0VUhjdXBMV1JOZUt4RlZtWTNpUll1SEFVYWwtekZRUzZKTVFjQkw0dEx3YjM5OUlsam1TU0FsaWZkQkR3YTRLU0kyZHVDcTNpVDFyc0F1OXJHWEg3S0JGOFJhXzU2U1o0Ry16eWZacUYyaDdMMUNKdTY0aDNVODdNcE9sUjgwZXFtVXdDemJ2Skdlczh4Zw?oc=5",
+      "summary": "A 2,600% Surge for a TV Campaign Spot Tells the Tale of Texas Elections &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "date": "2026-10-23",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "Retail Traders Find a Back Door to 24/7 Oil Trading - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTJwZWVGcUdiNkdlYWxTRzNvOUNkWHZYWnVZQ2tQQmV3d25JX1VuY1RVSmJLcXJoQVFOSkZ4dF9iVjFPMUFrSFpNWW9qYlU0MzhCcWxqQ0pxWHBpTjRONTVtYnRwMVhEbTJmazN6SnBMYTBWWW1rQTVScFo4VEJIdWdFWEJQdWZyUjk3dlc3VUo2cVg2XzV0Vm9PLWFpblpnelB0cVIyRi0?oc=5",
+      "summary": "Retail Traders Find a Back Door to 24/7 Oil Trading &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "date": "2026-10-23",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "global",
+      "title": "What the coming copper crunch means for the global economy - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjdGamJsMUlncDFNNDR3WWVhUnh0QkFZbFpQTlRLdFA4S2E5Zm9BREhKb3ZJMExBZVhZZTJnNWVQYXRQakNZWnNIOWpiUkZnRFJ6TVVuX3JlVUo5Vko0eC1rajc5RnczNG1hLXFsUkI5VFRQcDlFaWoxdmNobTAwRDRNV0M?oc=5",
+      "summary": "What the coming copper crunch means for the global economy &nbsp;&nbsp; Financial Times",
+      "source": "Financial Times",
+      "date": "2026-10-23",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "visa",
       "title": "Subclass 500 Student visa - Department of Home Affairs Website",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2pUbks2Y1NVdDl2SzJOeHZYTWVtMmRNTXZXUHdGS1ZaZkFnaHVqRlZoUk4tVDd6M00yenFJR2JjNHNoM25QcHdfLUxBMk5ZUUJYOEhQYTB5VFhLR3VGUGE0a1ROX05RWnZBSE1PdGJTRkRIaHRYZndMMC1NU1JVR3V2cDRuODRFdUtsc0Ywc3Z0Slo0U3VpMk5HNGlDLWY0eEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRy1DUGE0d0V0S2YxazVoYzdTTlNaeGZrMGczRVJ4V0tBVHpLX2EtbW9GSUxBMDVDTjV2VjEwcUpoN3hFQmFVVjVQZXgtNDlUald4bzgyS0xqUjh3VWlJMENmNGtCVmRhTk5NRUI1dTBSY3EwNjBXdS1FOUsyVGN5QW5KUQ?oc=5",
       "summary": "Subclass 500 Student visa &nbsp;&nbsp; Department of Home Affairs Website",
       "source": "Department of Home Affairs Website",
       "date": "2026-10-22",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "India–New Zealand Free Trade Agreement brings new visa commitments - Immigration New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzcwSjV3Q1ZsV0JxTUtjXzJ0dmFtTU9vaVpQOU5NX2ZNZGxzNEZPaWpleFl4dFo3UnJSTWJfU3FRQjM4R3Y0dXJlc2tUM3hucmdDN0hRVzNBU1BoazZiV1huakkxcXYxb3F4Y2RYVklxc0JtclFwYlJHb29qTkdodXJ5b29pMmdvMF9ucTJLME9Wak01cFhGX0lnem8wY1VKWFpxdzd4bXRFY05QdTZkOFhQR184WlZqQmdVbA?oc=5",
-      "summary": "India–New Zealand Free Trade Agreement brings new visa commitments &nbsp;&nbsp; Immigration New Zealand",
-      "source": "Immigration New Zealand",
-      "date": "2026-10-20",
-      "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "Requirements for India Skilled Work Visa jobs - Immigration New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNnR3lGTGdONExJZXJZRjFMVlVWS1d6bVc1SE40dlA4UkZIQ3JfcHZqSmVlYnhKbzZVajc3NUJtUzJHMFNVRWxRekhVMjdYbnA3VnI0NzN6NVFJRUNvU1F5dVlONVFGUnFESlF0UXMzN2RvSU03RVdOWEdfZzQ5QUF0ZjZfVjl6cDVGVVFwWG5CcmNDTmc1c0xER2kyM3pkVXZiZjhZa3Z1a3hZSmJVYg?oc=5",
-      "summary": "Requirements for India Skilled Work Visa jobs &nbsp;&nbsp; Immigration New Zealand",
-      "source": "Immigration New Zealand",
-      "date": "2026-10-20",
-      "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
@@ -280,7 +285,19 @@
       "source": "Immigration New Zealand",
       "date": "2026-10-20",
       "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
+    },
+    {
+      "category": "visa",
+      "title": "Requirements for India Skilled Work Visa jobs - Immigration New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNnR3lGTGdONExJZXJZRjFMVlVWS1d6bVc1SE40dlA4UkZIQ3JfcHZqSmVlYnhKbzZVajc3NUJtUzJHMFNVRWxRekhVMjdYbnA3VnI0NzN6NVFJRUNvU1F5dVlONVFGUnFESlF0UXMzN2RvSU03RVdOWEdfZzQ5QUF0ZjZfVjl6cDVGVVFwWG5CcmNDTmc1c0xER2kyM3pkVXZiZjhZa3Z1a3hZSmJVYg?oc=5",
+      "summary": "Requirements for India Skilled Work Visa jobs &nbsp;&nbsp; Immigration New Zealand",
+      "source": "Immigration New Zealand",
+      "date": "2026-10-20",
+      "source_level": "政府/官方来源",
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
@@ -290,17 +307,19 @@
       "source": "Immigration New Zealand",
       "date": "2026-10-20",
       "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
-      "title": "Using your English-speaking background - Immigration New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVVFxeUFPSzM2Z2ZsY2hqbk1LZi1tMkFWcEI2d3RzNkhOVnBiVDRoOUlwbVEtaS1MUno3akJHSGpBd0pxUVMwZXlHOXRBbzlqZjUtZnVPQ0ZnWHQ5WG1NVVBtU1o3cGlCdVZHT1g5cl9QekVoOEZaeWIxdG1KR21hejF5dE43WGtSVmZDRGhpWXdZUVVHRl9IX285M09mTkFTRkV3X3RqaHpPRkgwclk5ZHh2ZmFtbUJPY19RM2FkbHZlMEpHbmphU0FTWmlvSVB6R1VwcWxJWGlDbXFEcnlYeDMwMlVZRVBqdVRpMHhhdUZMdnp1X3RHNTJZYzA4Tlg4S25LekJpWC1DM2pQQ09wZFQ0YU5PNFZoaXhYb2lmTTZsamlreFJmTjJaeEY?oc=5",
-      "summary": "Using your English-speaking background &nbsp;&nbsp; Immigration New Zealand",
+      "title": "India–New Zealand Free Trade Agreement brings new visa commitments - Immigration New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzcwSjV3Q1ZsV0JxTUtjXzJ0dmFtTU9vaVpQOU5NX2ZNZGxzNEZPaWpleFl4dFo3UnJSTWJfU3FRQjM4R3Y0dXJlc2tUM3hucmdDN0hRVzNBU1BoazZiV1huakkxcXYxb3F4Y2RYVklxc0JtclFwYlJHb29qTkdodXJ5b29pMmdvMF9ucTJLME9Wak01cFhGX0lnem8wY1VKWFpxdzd4bXRFY05QdTZkOFhQR184WlZqQmdVbA?oc=5",
+      "summary": "India–New Zealand Free Trade Agreement brings new visa commitments &nbsp;&nbsp; Immigration New Zealand",
       "source": "Immigration New Zealand",
       "date": "2026-10-20",
       "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
@@ -310,7 +329,19 @@
       "source": "USCIS (.gov)",
       "date": "2026-10-20",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "plant",
+      "title": "Jacques Derron Built Pest Control Around Ecology, Evidence and Shared Knowledge - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXFMT0E2YWxOZThRcl9SOVBObXprbEVfdV9QV01GTDhkakFkMnN4RlNrMVJBUnpSREp0OUE1UkRSUDdhcEM3cDRMSEU4dUlCVkJKdlFoNi1wUy1FUDhZZkRlNUxXLUN2bGlPYWdvV2dyWWpNVG5OTVFlUUJQTVNYNEROOFVKRDVHUmtPb1RBclFnWGdBU1dhUHR0aGVsQmRzbUV5dTBB?oc=5",
+      "summary": "Jacques Derron Built Pest Control Around Ecology, Evidence and Shared Knowledge &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org",
+      "date": "2026-10-20",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -320,7 +351,8 @@
       "source": "DTN Progressive Farmer",
       "date": "2026-10-20",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -330,7 +362,8 @@
       "source": "Morning Ag Clips",
       "date": "2026-10-20",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
@@ -340,7 +373,8 @@
       "source": "Canada.ca",
       "date": "2026-10-16",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -350,27 +384,19 @@
       "source": "Barbados Today",
       "date": "2026-10-15",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "Immigration measures and support for Ukrainians and their families - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1VSM3Q0UHc0bHpSZU9hQzFxeTRMYklSNERwX1YwaW1XN3J2Slo1X2EyeTk4Nlp4UUFjbTd4MGpZQV9aNHR0Q0xvRTM2YmVsd0J4Nmg4WXVQRVkxNXN6dnFSOGk5bFpPNWFEMllrNmtNM0tqcVRJaDNOdFlMREprTEVSNy1UYklKV05WUFVoS3RGdmJWVnFTNFhpMGNWeXlLNUdQRnoxVmY?oc=5",
-      "summary": "Immigration measures and support for Ukrainians and their families &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-10-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
-      "title": "UC receives nearly $1.5 million from USDA-NIFA for farm research lab in San Joaquin Valley | ANR News Releases - UC Agriculture and Natural Resources",
+      "title": "UC receives nearly $1.5 million from USDA-NIFA for farm research lab in San Joaquin Valley - UC Agriculture and Natural Resources",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93djdISVI1eDE0Z0lsUldXNDZqcXhqU0dXejBERmtZaEpURms3Sm1leVFQVjN5ZmZtbFZGMHBFdldhNkVMMzQ2WTBFNDA3U2ZXd3g4ckFuRE9yR3FiMTdYUFY1bC0tSVNycXZsMUt0S09neExoTnFWZnQ1LXg?oc=5",
-      "summary": "UC receives nearly $1.5 million from USDA-NIFA for farm research lab in San Joaquin Valley | ANR News Releases &nbsp;&nbsp; UC Agriculture and Natural Resources",
+      "summary": "UC receives nearly $1.5 million from USDA-NIFA for farm research lab in San Joaquin Valley &nbsp;&nbsp; UC Agriculture and Natural Resources",
       "source": "UC Agriculture and Natural Resources",
       "date": "2026-10-14",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -380,7 +406,8 @@
       "source": "WRNJ Radio",
       "date": "2026-10-14",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -390,17 +417,30 @@
       "source": "The Fence Post",
       "date": "2026-10-14",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
-      "category": "plant",
-      "title": "Plant disease - Resistance, Breeding, Genetics - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY2w1Wk9raGZXNTk0TnZYeFBERDgtcHo5aFAxU05sRVQxOXFVbWZnT0E5R2ItTzluY1lnRExtZnNUX015cXBwQW5rUUIzeUhmS2hRVUNEcmNxZ0xFb0JRd3hxd2xhZlh1c3FRckJDTGY2TEI0c0l3T0RSSDdzWmVEQ2pvLVNXWnFoX21v?oc=5",
-      "summary": "Plant disease - Resistance, Breeding, Genetics &nbsp;&nbsp; Britannica",
-      "source": "Britannica",
-      "date": "2026-10-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "category": "visa",
+      "title": "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream - Department of Home Affairs Website",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXUydVpQYVZraWRXYUtfcEIyazBxWjBnd1VnQUtzdmktX2Y4WnRnZWM5bmJidUZFWmo4SVFGTmppb3NmRVpsM3Z4RnFVcm0zYkFkR1JsVGdHQkJTaTVhTDZNbndGeVM3elVYcnR4YThzQUJJbjNWQlh5LUtISHd6NXVUeFJHTmtqYUZkdExEaW9qbVEyU2lJa0JCWU9jbU5MOGg2VzN1MkU3aEhxSWdmTDAxcnhSQQ?oc=5",
+      "summary": "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream &nbsp;&nbsp; Department of Home Affairs Website",
+      "source": "Department of Home Affairs Website",
+      "date": "2026-10-12",
+      "source_level": "机构来源",
+      "verification": "待打开原文核实",
+      "relevance": "high"
+    },
+    {
+      "category": "visa",
+      "title": "Subclass 820 Partner visa (temporary) - Department of Home Affairs Website",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSng2UmhXb21TY19GaW5INUNlZ09qNUZhNHozQUUzNXhqQ0k2aEx1aWozRjkyd1ZWTmR1MVpxcXNPTFJFcG0tZUZGNmFrcFMxR1Fxc1Y2VzR6d3NoelVOdjlkdkRXSTVabnBWVm9UVmVyZTJ0V2ZpQTUtMjB2SXQxNHB5c0FsYmRBa2dpalVtR3M1ZndQR2p0WWF6NA?oc=5",
+      "summary": "Subclass 820 Partner visa (temporary) &nbsp;&nbsp; Department of Home Affairs Website",
+      "source": "Department of Home Affairs Website",
+      "date": "2026-10-12",
+      "source_level": "机构来源",
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -410,7 +450,31 @@
       "source": "Farmonaut",
       "date": "2026-10-12",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
+    },
+    {
+      "category": "jobs",
+      "title": "青岛清原 KingAgroot — 2027届校园招聘（研发/生物技术）",
+      "url": "http://jy.csuft.edu.cn/detail/career?id=720737",
+      "summary": "清原作物科学集团2027届校招。公司专注新农药创制和生物技术育种，研发人员超千人。拥有CSE/KSE基因编辑专利技术。已发掘大批抗虫、抗病新基因。7个新专利化合物已上市，预计2030年再推16+创新化合物。",
+      "source": "中南林业科技大学就业网",
+      "date": "2026-10-11",
+      "source_level": "机构来源",
+      "verification": "最新发布（2026年10月），面向2027届。与植保硕士高度匹配（抗虫基因、生物育种方向）。需打开原文确认具体岗位和投递方式。",
+      "company": "KingAgroot / 青岛清原作物科学集团",
+      "location": "青岛",
+      "salary": "未公开",
+      "status": "最新开放",
+      "degree": "未明确（校招通常接受本科/硕士/博士）",
+      "official_status": "官方确认开放",
+      "official_url": "https://job.zzu.edu.cn/campus/view/id/1019575",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "多所高校就业网确认发布（石河子大学、郑州大学、四川农业大学等）。截止日期：2027-03-31。研发类岗位涵盖新农药创制、生物技术育种方向，与植保硕士高度匹配。",
+      "work_visa_info": "未确认（国内岗位，青岛）",
+      "job_match_score": "high",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -420,7 +484,8 @@
       "source": "University of Vermont",
       "date": "2026-10-09",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -430,7 +495,8 @@
       "source": "University of Kentucky",
       "date": "2026-10-09",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -438,9 +504,10 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXdrYmhQb0ZNLUNZd1pOTW5FTFQta3RhTGhEeEhOZ080eEc3LVd5NjMtTHlMdnNUazg0bVNpY3NqNi1wOUxIMU9WT3hwbzZXb1pWNmNvSFl1c19QbU0zcUoyOGRLWUE2bk42R2FjOVo2VEtwLUdPZnZRaEFYRG9wZF83X2pLVUhZV2JVS2xybzk0YzMzUjJPOXJ3eF9XRzd6b0Y3N3lkR0I3aFJiLXY5bVplWWhrdzZwTGtCRU05ZDJQbFRkN2lRM29QWWREdlkwVWprNlZsdk94Z1RiYm1sT2xaam9UeUk?oc=5",
       "summary": "Knitted \"Plant Armor\" Fabric Raised Strawberry Yields Up to 3.56 Times in NC State Tunnel Trials by Keeping Insects Out &nbsp;&nbsp; Nature World News",
       "source": "Nature World News",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
@@ -450,7 +517,30 @@
       "source": "Department of Home Affairs Website",
       "date": "2026-10-07",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
+    },
+    {
+      "category": "visa",
+      "title": "Family visa processing priorities - Department of Home Affairs Website",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlo0UmJZVU43V09rVFowYnJpMUUxYUo2RnlxbHZyVlFTZlVkZnA3RUVHc2tlV3c1OUhtY284X3B4YXZleGR2UkNxSGtlUFFtOEpDNG5SRllDeWdiQ0FLaGtRMGdkZWlTWTc5d0FJeEFBVEN1ajFwSjFWbkNQd2tvS1dMekw5T2o4VXRGYnhWczlRcWtScF9GYlVkYUM0anByODNXNmNYNkJsWlFIamJmZ19UYw?oc=5",
+      "summary": "Family visa processing priorities &nbsp;&nbsp; Department of Home Affairs Website",
+      "source": "Department of Home Affairs Website",
+      "date": "2026-10-07",
+      "source_level": "机构来源",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "visa",
+      "title": "Australian Immigration Enquiry Form - Department of Home Affairs Website",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjRKcGhudHR6QkUyTGxGLUViemFscGkzZmdscHV2dGlkTWFVd0RJUVQyNm9xanYyeWRldTNBZldadHlTcURuYVRDeHRaanJpVlhEV0pJbFFzb01mQW9nTHM0X0ppVGdlR0xrUVM4Z3pHRkJyTWRCUS1zZTRxRjluRnZybHZwYndZWWFMZVozbm10R01vQ3M0RlhqM1Z1Mm9oQVU2d2hRY2JXOE55SWhPbndR?oc=5",
+      "summary": "Australian Immigration Enquiry Form &nbsp;&nbsp; Department of Home Affairs Website",
+      "source": "Department of Home Affairs Website",
+      "date": "2026-10-07",
+      "source_level": "机构来源",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -460,7 +550,8 @@
       "source": "Entomology Today",
       "date": "2026-10-07",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -470,17 +561,30 @@
       "source": "Capital Press",
       "date": "2026-10-07",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "visa",
-      "title": "Immigration and citizenship Website - Department of Home Affairs Website",
+      "title": "Visa processing times - Department of Home Affairs Website",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXhaWlNmQVk4YWpBRmZFYWpZck1TWjhwaTZZc21vcFhRRUx5S2M0eFFZSndtanhKaDNKWjJ4VlZjZklNaVhDQzM4UW51blY0ZW9oTU95SWg2MWhKdnBQQ09DMF93Mi14dHhseVAxTmZqMDZ5M1A2Qk1la2Y0dTU0UUVscU94UXBJcnpZ?oc=5",
-      "summary": "Immigration and citizenship Website &nbsp;&nbsp; Department of Home Affairs Website",
+      "summary": "Visa processing times &nbsp;&nbsp; Department of Home Affairs Website",
       "source": "Department of Home Affairs Website",
       "date": "2026-10-06",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "visa",
+      "title": "Subclass 407 Training visa - Department of Home Affairs Website",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlROWR6U2xrRFcxZVJzWTRGNkZrVU1jNTlUc2NBb1Q2QmFkZ1FTWkJHZ0U4OFFHTmFJUmN2T0Q5aXprTEIwU2ZqQ1Q5blRneDBKQ2ZscC1UajNzTThLZXlUVk1MT3FpUktLZjNpYTZDdUZEUkVUaHVnR0VSZ0VydTNNd0U?oc=5",
+      "summary": "Subclass 407 Training visa &nbsp;&nbsp; Department of Home Affairs Website",
+      "source": "Department of Home Affairs Website",
+      "date": "2026-10-06",
+      "source_level": "机构来源",
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "visa",
@@ -490,7 +594,8 @@
       "source": "Canada.ca",
       "date": "2026-10-06",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "high"
     },
     {
       "category": "plant",
@@ -500,7 +605,8 @@
       "source": "Britannica",
       "date": "2026-10-06",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "visa",
@@ -510,7 +616,8 @@
       "source": "USCIS (.gov)",
       "date": "2026-10-05",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "visa",
@@ -520,7 +627,8 @@
       "source": "USCIS (.gov)",
       "date": "2026-10-05",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -530,7 +638,8 @@
       "source": "Animal and Plant Health Inspection Service (.gov)",
       "date": "2026-10-05",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "plant",
@@ -540,7 +649,8 @@
       "source": "CASRAI",
       "date": "2026-10-04",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "low"
     },
     {
       "category": "plant",
@@ -550,64 +660,291 @@
       "source": "Bioengineer.org",
       "date": "2026-10-04",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "plant",
-      "title": "New pesticide decision website for apple, peach and cherry growers - Fruit & Nuts - Michigan State University",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHBTY1BOcDctd09oOGdOb19lUGY2Wl83X0g0NTRxVHZoX0tGWGlPRElQeE1iejBmY1NzRnlrUk9fX0ZvUE1xckljNXR0MnJrOUtjTWctcHFRRUo4Y1I2NkR0bF9CYlhrR09EdXN2UnIyT1h0ZlVLeFdJZmpUdU0wcVltcklRU0xmZGk2MA?oc=5",
-      "summary": "New pesticide decision website for apple, peach and cherry growers - Fruit & Nuts &nbsp;&nbsp; Michigan State University",
-      "source": "Michigan State University",
-      "date": "2026-10-02",
-      "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "待打开原文核实",
+      "relevance": "medium"
     },
     {
       "category": "visa",
-      "title": "Immigration, Refugees and Citizenship Canada - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51bVBzcVVtS1Bkb2dELUZFMnRZMlBHZ3Z4M1NtMS0yVjFjNENDUEhLckNIbUNsczBCZDZKTTBETnVuOXBYYkF2VUdfX0FFWjdhc0FUYkduSmpMSEphQmVKMEFhajR6emxOSXB6V0Z3RQ?oc=5",
-      "summary": "Immigration, Refugees and Citizenship Canada &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-09-28",
+      "title": "​​National Innovation Visa - Department of Home Affairs Website",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZm5VNC1pNEZWQlVhNjlYV1EzcU83djVWcHdReGhfVG11eGZ0TXFMYWlBWWYyTWJIRThhc09HOWFpWlJ3aXVOLTM1QU9wT0Y4elNTd01Qd1hhUVVYdzdwZW1mbEpYZkhxcE1MUUNJQXVRUTVfSUNmWmV4OEl2SUJWNGJtdGpHa2xhejV0QTZ6bEFnOU5xb1U2N05oWmpyUnN0MnJmUUJJbw?oc=5",
+      "summary": "​​National Innovation Visa &nbsp;&nbsp; Department of Home Affairs Website",
+      "source": "Department of Home Affairs Website",
+      "date": "2026-09-30",
+      "source_level": "机构来源",
+      "verification": "待打开原文核实",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "青岛清原 — 2026届校园招聘",
+      "url": "https://jyxx.xjau.edu.cn/detail/jobfair_apply?apply_id=1660999&company_id=75485",
+      "summary": "清原集团2026届校招，涵盖新农药创制、生物技术性状开发等方向。总部青岛，研发人员超千人。",
+      "source": "新疆农业大学就业信息网",
+      "date": "2026-08-10",
+      "source_level": "机构来源",
+      "verification": "2026届校招，可能已接近尾声或已截止。需确认是否仍接受投递。",
+      "company": "KingAgroot / 青岛清原",
+      "location": "青岛",
+      "salary": "未公开",
+      "status": "可能已截止",
+      "degree": "未明确",
+      "official_status": "已关闭或已过期",
+      "official_url": "https://jyxx.xjau.edu.cn/detail/jobfair_apply?apply_id=1660999&company_id=75485",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "2026届校招周期已过。但清原2027届校招已开放（见上条），建议直接申请2027届。",
+      "work_visa_info": "未确认",
+      "job_match_score": "high（但已过期）",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "先正达 — 田间测试专员（10位）",
+      "url": "http://career.jxufe.edu.cn/detail/jobfair_apply?apply_id=623433&company_id=268306",
+      "summary": "先正达招聘田间测试专员10位，要求植物保护或作物遗传育种相关专业硕士优先。工作地点：郑州、长春。需接受田间工作。联系邮箱：leo.kang@syngenta.com",
+      "source": "江西财经大学就业信息网",
+      "date": "2026-08-03",
+      "source_level": "机构来源",
+      "verification": "发布于高校就业网，信息可信度高。但发布时间为2026年8月，需确认是否仍开放。专业完全匹配。",
+      "company": "Syngenta China / 先正达",
+      "location": "郑州、长春",
+      "salary": "未公开",
+      "status": "状态待核实",
+      "degree": "硕士优先",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "mailto:leo.kang@syngenta.com",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "高校就业网发布信息，来源可信。联系邮箱为syngenta.com域名。需邮件确认是否仍开放。",
+      "work_visa_info": "未确认（国内岗位，郑州/长春）",
+      "job_match_score": "high",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "先正达 — 助理病理学家（2位）",
+      "url": "http://career.jxufe.edu.cn/detail/jobfair_apply?apply_id=623433&company_id=268306",
+      "summary": "先正达招聘助理病理学家2位，要求植物病理学博士学位优先。工作地点：郑州、长春。",
+      "source": "江西财经大学就业信息网",
+      "date": "2026-08-03",
+      "source_level": "机构来源",
+      "verification": "要求博士学位，硕士不符合。列出供参考职业发展路径。",
+      "company": "Syngenta China / 先正达",
+      "location": "郑州、长春",
+      "salary": "未公开",
+      "status": "状态待核实",
+      "degree": "博士优先",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "mailto:leo.kang@syngenta.com",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "同上。要求博士学位，与用户硕士学历不匹配。",
+      "work_visa_info": "未确认（国内岗位）",
+      "job_match_score": "medium（学历不匹配）",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "巴斯夫植物保护（江苏）— 质量控制技术员",
+      "url": "https://m.yingjiesheng.com/2021_industry_wum8c54fct.html",
+      "summary": "巴斯夫植物保护（江苏）有限公司招聘质量控制技术员，工作地点江苏。",
+      "source": "应届生求职网",
+      "date": "2026-03-27",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
+      "verification": "发布于应届生求职网聚合页面，需打开原文确认具体要求和申请方式。巴斯夫在江苏有制剂工厂。",
+      "company": "BASF Plant Protection (Jiangsu) / 巴斯夫植物保护（江苏）",
+      "location": "江苏",
+      "salary": "未公开",
+      "status": "状态待核实",
+      "degree": "未明确",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "https://www.basf.com/cn/zh/careers.html",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "巴斯夫中国招聘官网存在。应届生求职网聚合信息，发布于2026年3月。需打开官网确认该岗位是否仍开放。",
+      "work_visa_info": "未确认（国内岗位，江苏）",
+      "job_match_score": "medium",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
     },
     {
-      "category": "visa",
-      "title": "Explore visa options - Department of Home Affairs Website",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScFB5NjkwT1hLcDRIRjdvcElfUXBnTmhyNUhUM1N1N29LTHkwV3MyWFJWWFZXRm9jZFlHRGtjMGdLQUw4Zi10blVTbjhGdVhoU3NZczVDczFmekpLVmdPNnJKeTZoclZKMFhheC1rcXdDdw?oc=5",
-      "summary": "Explore visa options &nbsp;&nbsp; Department of Home Affairs Website",
-      "source": "Department of Home Affairs Website",
-      "date": "2026-09-25",
-      "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "category": "jobs",
+      "title": "巴斯夫植物保护（江苏）— 制剂助理",
+      "url": "https://m.yingjiesheng.com/2021_industry_wum8c54fct.html",
+      "summary": "巴斯夫植物保护（江苏）有限公司招聘制剂助理，工作地点江苏。",
+      "source": "应届生求职网",
+      "date": "2026-03-27",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "与质量控制技术员同期发布，需核实是否仍开放。制剂相关岗位与植保专业有一定关联。",
+      "company": "BASF Plant Protection (Jiangsu) / 巴斯夫植物保护（江苏）",
+      "location": "江苏",
+      "salary": "未公开",
+      "status": "状态待核实",
+      "degree": "未明确",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "https://www.basf.com/cn/zh/careers.html",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "同上。制剂方向与植保有一定关联。",
+      "work_visa_info": "未确认（国内岗位，江苏）",
+      "job_match_score": "medium",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
     },
     {
-      "category": "visa",
-      "title": "Check visa details and conditions - Department of Home Affairs Website",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1Fwa1JNa3k2V1Y1NjFnRVZHam5vZVEyRnc1SHljcWR4ZXV1QWZGVWdHX2RZa3ZzYVhoRUhqTFpVT2VXOEd2LS02UVlCMjI0dVJfOUxITUQ4VGViMHRmMi0tMVUyd3cyTzBqX1RsVDFNQnMtUGRPUUVJUkJIY004dDhpSDZaRTNrQWpqTzNYc1pTeUNqaU94RTE4WmhrOWk4ZVE?oc=5",
-      "summary": "Check visa details and conditions &nbsp;&nbsp; Department of Home Affairs Website",
-      "source": "Department of Home Affairs Website",
-      "date": "2026-09-25",
+      "category": "jobs",
+      "title": "安道麦中国 2026 校园招聘 — 工程/营销方向",
+      "url": "https://sias.goworkla.cn/module/position_brief_detail/id-109336/nid-4669",
+      "summary": "安道麦中国（先正达集团旗下，SZ 000553）2026届校招，招聘电气工程及其自动化、机械工程、市场营销专业。总部湖北荆州，南京全球研发中心。2024年销售额超300亿元，国内农药销售第一。",
+      "source": "高校就业信息网",
+      "date": "2025-12-26",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "本次招聘专业为工程/营销方向，与植保硕士专业匹配度较低。但安道麦每年有研发类岗位，建议关注其官网。",
+      "company": "ADAMA China / 安道麦中国",
+      "location": "湖北荆州、南京",
+      "salary": "未公开（五险一金、带薪年假）",
+      "status": "本轮专业不匹配",
+      "degree": "2026届应届",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "https://www.adama.com/china/careers",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "安道麦中国（SZ 000553）官网存在。本轮招聘专业为工程/营销方向，与植保硕士不匹配。",
+      "work_visa_info": "未确认",
+      "job_match_score": "low（专业不匹配）",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
     },
     {
-      "category": "visa",
-      "title": "Skills in Demand visa (subclass 482) Labour agreement stream - Department of Home Affairs Website",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlRvV29xeHRUT1U0ZWFuNHJKMTBXMDRoQzlhb3FEVkxkSEhCcFFoLWs3XzBya1RMSjlHOXkzVmUwSTNvanhKRml2NGhFY0t2ODUwU0gtU0lCWFdMVHJKVUtkeEdYNzlqa3ItYXBzaGNFWWpCVVdncFVpVl9nbUpjWDQyWndYRjh6V3l1TDRkclduREtVeVk2S0lDWUtuN3IwUGxYUVJFZzJrZXE2ZDZaa3h4Yk1zSU5wbkZSdlNHY0JyZw?oc=5",
-      "summary": "Skills in Demand visa (subclass 482) Labour agreement stream &nbsp;&nbsp; Department of Home Affairs Website",
-      "source": "Department of Home Affairs Website",
-      "date": "2026-09-24",
+      "category": "jobs",
+      "title": "先正达集团中国 2026 校园招聘 — 科学家计划 & 培训生计划（100人）",
+      "url": "https://sinochem.hotjob.cn/SU611a641a0dcad4106f04950e/mc/position/campus?orgCode=0%2F7",
+      "summary": "先正达集团中国2026校招，开放科学家计划（博士）和培训生计划（硕士）。岗位涵盖研发类（植保、作物遗传育种、土壤健康、生物学等）、营销类、生产类。工作地覆盖北京、上海、沈阳、扬州、杨凌、武汉等。网申截止2025-12-31。",
+      "source": "先正达集团中国 / 中国中化招聘官网",
+      "date": "2025-10-30",
       "source_level": "机构来源",
-      "verification": "待打开原文核实"
+      "verification": "校招周期已过（截止2025-12-31），当前状态需核实官网是否仍接受投递。专业高度匹配植保硕士。",
+      "company": "Syngenta China / 先正达集团中国",
+      "location": "北京、上海、沈阳、扬州、杨凌、武汉、临沂等",
+      "salary": "未公开（行业竞争优势）",
+      "status": "可能已截止",
+      "degree": "硕士/博士",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "https://sinochem.hotjob.cn/SU611a641a0dcad4106f04950e/mc/position/campus",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "先正达中国校招官网存在。2026届校招截止2025-12-31，大概率已截止。2027届校招预计2026年秋季启动。",
+      "work_visa_info": "未确认",
+      "job_match_score": "high",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "中国农药登记员（应届生）— 要求英语六级+植保/化学专业",
+      "url": "http://m.chenhr.com/job/mShT2/",
+      "summary": "招聘农药登记员，要求农药/植保/化学专业本科或硕士，英语六级以上。职责包括国内外农药登记证申请维护、法规研究。需与农业部和国外客户沟通。",
+      "source": "英才网联",
+      "date": "2025-04-03",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "招聘日期2025-04-03至2026-05-02，可能仍在有效期内。农药登记方向与植保专业匹配，且涉及国际登记，有利于积累海外就业相关经验。",
+      "company": "未公开（浙江企业）",
+      "location": "浙江",
+      "salary": "未公开",
+      "status": "可能仍在招聘",
+      "degree": "本科或硕士",
+      "official_status": "官方页面存在但开放状态不明",
+      "official_url": "http://m.chenhr.com/job/mShT2/",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "英才网联发布，招聘日期2025-04-03至2026-05-02。可能仍在有效期内。要求英语六级+植保/化学专业，与用户背景匹配。涉及国际登记，有利于积累海外经验。",
+      "work_visa_info": "未确认（国内岗位，浙江）",
+      "job_match_score": "high",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "安道麦南京研发中心 — 化学科学家（10名）",
+      "url": "https://tj91.tongji.edu.cn/frontpage/tongji/html/newsDetail.html?id=15682",
+      "summary": "安道麦南京研发中心招聘化学科学家10名。要求：制剂、有机化学、分析化学相关专业硕士/博士。需具备独立科研能力、英语沟通能力。",
+      "source": "同济大学就业网",
+      "date": "2024-12-26",
+      "source_level": "机构来源",
+      "verification": "此信息为2019校招发布，但安道麦南京研发中心持续运营中。化学方向与植保有交叉，建议查询最新招聘。",
+      "company": "ADAMA / 安道麦南京研发中心",
+      "location": "南京",
+      "salary": "有竞争力（绩效奖金+年终奖+带薪休假+补充商业保险）",
+      "status": "历史信息，需查最新",
+      "degree": "硕士/博士",
+      "official_status": "只有第三方历史信息",
+      "official_url": "https://www.adama.com/china/careers",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "此信息源自2019年同济大学就业网发布。安道麦南京研发中心确实存在且持续运营，但具体岗位需查询最新招聘。",
+      "work_visa_info": "未确认",
+      "job_match_score": "medium（化学方向有交叉）",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "富美实 FMC 中国 — 技术推广及研发 / 管培生",
+      "url": "http://rwskxy.ahau.edu.cn/info/1126/7380.htm",
+      "summary": "FMC富美实中国招聘管理培训生5人（上海）和技术推广及研发15人（地点不限）。要求农学/植保/相关农化专业。职责包括田间试验实施、应用技术开开、产品培训。",
+      "source": "安徽农业大学农学院",
+      "date": "2023-12-22",
+      "source_level": "机构来源",
+      "verification": "此信息为2021届校招（2023年发布），大概率已过期。FMC中国每年有校招，建议关注其官网 fmc.com 或高校就业网获取最新信息。",
+      "company": "FMC China / 富美实中国",
+      "location": "上海（管培生）/ 全国（技术推广）",
+      "salary": "未公开",
+      "status": "很可能已过期",
+      "degree": "本科或硕士",
+      "official_status": "只有第三方历史信息",
+      "official_url": "https://www.fmc.com/careers",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "此信息为2021届校招（2023年发布）。FMC中国官网存在career页面，但未找到当前开放的中国植保相关岗位。",
+      "work_visa_info": "未确认",
+      "job_match_score": "high（如开放）",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
+    },
+    {
+      "category": "jobs",
+      "title": "科迪华 Corteva — Early Talent 培训生",
+      "url": "https://nxy.nwafu.edu.cn/pub/nxy/jyzd/jyxx/13a379b8ac054f5289fcee106b2c7669.htm",
+      "summary": "科迪华农业科技（原陶氏杜邦农业事业部）招聘 Early Talent 培训生约4人。要求：植物保护、农学、园艺、生物化学等相关专业本科及以上。月薪9k-12k。需接受异地调动或轮岗。福利：五险一金、商业健康保险、补充养老、补充住房公积金、带薪年假。",
+      "source": "西北农林科技大学农学院就业信息网",
+      "date": "2023-10-12",
+      "source_level": "机构来源",
+      "verification": "此信息为2024届校招（2023年发布），大概率已过期。科迪华每年秋季通常开启新一轮校招，建议关注其官网或高校就业网获取最新信息。",
+      "company": "Corteva Agriscience / 科迪华",
+      "location": "多地（需接受异地调动）",
+      "salary": "9,000-12,000 元/月",
+      "status": "很可能已过期",
+      "degree": "本科及以上",
+      "official_status": "已关闭或已过期",
+      "official_url": "https://www.corteva.cn/careers.html",
+      "jobs_verified_date": "2026-10-27",
+      "jobs_verification_note": "此信息为2024届校招（2023年10月发布）。科迪华中国官网存在career页面，但未找到当前开放的2027届校招信息。建议关注其微信公众号或高校就业网获取最新信息。",
+      "work_visa_info": "未确认",
+      "job_match_score": "high（如开放）",
+      "verification_time": "2026-10-27 10:04:35 CST",
+      "relevance": "medium"
     }
   ],
   "counts": {
     "global": 20,
     "plant": 20,
-    "visa": 20,
-    "jobs": 0
+    "visa": 19,
+    "jobs": 12
   },
-  "note": "自动发现的公开 RSS 线索，不等同于事实核验。签证以政府官网政策页面为准；岗位必须打开雇主招聘官网确认是否仍在招聘、地点、签证担保及截止日期。没有日期的结果会被过滤。"
+  "pipeline_version": "2.0",
+  "note": "自动采集公开 RSS 线索 + 手动 curated 招聘信息。来源等级仅供初筛，不代表已核验。签证以政府官网为准，招聘须以雇主官网核实。",
+  "metadata": {
+    "total_items": 71,
+    "categories": {
+      "global": 20,
+      "plant": 20,
+      "visa": 19,
+      "jobs": 12
+    },
+    "generated_at": "2026-10-27 10:18:48 CST",
+    "source_config_version": "2.0"
+  }
 }
