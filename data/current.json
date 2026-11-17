@@ -1,12 +1,112 @@
 {
-  "date": "2026-11-16",
-  "updated": "2026-11-16 14:26 CST",
+  "date": "2026-11-17",
+  "updated": "2026-11-17 15:53 CST",
   "items": [
     {
       "category": "global",
-      "title": "Push to Electrify the Global Economy Stalls at UN Climate Talks - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2NseHhzVVVOYmdwY1JJOW1qNGtURi1za05iT29fdHNkT1VsazdiN3hFNU90c0dmU3drS3FvdFBOZS1LYXdKTGxtV013eUxDVHItbS1iRWxrdWR0bVM2OEJmUUpQXy13aWZJWlZ2bE1jb1BJc1lCNE96Q2tlRldlMmNMb2JUS3VNdERsd3Y4SnE2RkRmVmJPdzg3SFljTXhRNENPX3BGNHI2cDRnSVZtdlFYY3hQb3hPb1MxNl9rMA?oc=5",
-      "summary": "Push to Electrify the Global Economy Stalls at UN Climate Talks &nbsp;&nbsp; Bloomberg.com",
+      "title": "Global summit seeks sustainable economic blueprint for aviation growth - International Civil Aviation Organization",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlAxbndReXJnX2hzSWNCdzhvVGdwejhSblpMdExlWHp3RjVBQWQtN3VJVEY1TnF2aXVRVnlicm9FZ2ZfY0RWeGxfcU1WSUE4X3hHdzY1N3E0YTc4aUd4R0xzMFA4dTQzeklTZjd3MkJDa3B1SnM5MXB5LVh6VlBBUWp0TURCTzJ6ZmFtUDJaVkl2ZU9GbG9F?oc=5",
+      "summary": "Global summit seeks sustainable economic blueprint for aviation growth &nbsp;&nbsp; International Civil Aviation Organization",
+      "source": "International Civil Aviation Organization",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "China 2027: What to Watch - Asia Society",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OYUJCT2ZBM21XZGc5UFBnd3pPWWpzUGd3VUpCdG4xeWpmNzFiV2hzcThzdmpGcWN1aHNBZ1JSNkwtUFlaSVFISEdxbWpETzk2dUVjTWczWV9tVnhBY3VGb0Q2RWNqV01mWGFhcm5ZbGI1QTMxRFNMVg?oc=5",
+      "summary": "China 2027: What to Watch &nbsp;&nbsp; Asia Society",
+      "source": "Asia Society",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "Market Watch: Canadian cleantech companies transforming the global landscape - The Environment Journal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQThvdmN6a21RWHBsbGxZUlllY09zVmhCRTFKT0M3RXJydzBQWmR5WGNvV1lqejhpNnd5eDd6ODE4N29vVUZ0ZkRLcHk3Rk43N3lqNFB5NW1Md3RvbEo1UWZicHpnQXY5UHRmWTQ5M2NWTF9XX2l5Tzg2UnhoQWZ0TkhYaHNOUmZZRU9SVS1FeXNsQm5OTjRfdGZRNjZEWFBvSEhFYlUxa0g4dFlPSW9aVHRfZV92Mm1k?oc=5",
+      "summary": "Market Watch: Canadian cleantech companies transforming the global landscape &nbsp;&nbsp; The Environment Journal",
+      "source": "The Environment Journal",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "Food Diplomacy as Statecraft: Building the Economic Foundations for Peace and Prosperity - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUE4bmxxRzlSaXp4bzRibEFsVG1SMGU3NGZsYWEyTXZ0Tl9MY09SeHhZb0I5cy1kWThFb2VoaUZMUTlZR3lfMG1IV1gyYll0RjJkLTFiWXZnNkNzdGNPUVdweTNEVzh2YUZseW9uczRlWTE2MXJqeEJ5M0FTd3RfNzM1SjMtUXZjaXBSamxfdFRfbUw0QWUyLXNxYWw1dXhyQlRDYmJDLU5XOU1YSHc?oc=5",
+      "summary": "Food Diplomacy as Statecraft: Building the Economic Foundations for Peace and Prosperity &nbsp;&nbsp; Impakter",
+      "source": "Impakter",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "Indonesia bolsters food system to navigate climate change threats - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU5xWFI1c0xrR3ZHR2hyM0lrR2FFT185UXBjaUw4cGlUQnpNckMtNy1hUzFNS01OT2ZISUNnOENydDluczlZTml2eTZKSXQ0SE9JXzloak5KdmZjMkhTQ2NWd3BGM3NZZ09MSW52aGZjUWlQd0hiUUxTZlJQX0w1NHpRRTlkNTFTcHV3NzNJbHM2MVVkNUxtWENIakllTDNDcUlmOGtB0gGrAUFVX3lxTE1mNHd3dUczNFZFeXQwdEZhMWlISnlwaThlc2Vvbk1rOG4zVjFIRVBJb0RlWGlGUW0yUU9QNjdiV0dqS0FJcWsyaU5xV0Q0TGRtWkRmdU1CZWdTb0JsT1NMVWJMd2FjRWFYZTZ1bE4xNy1xLVl5N3MtSTNucENiTXpiOGRyRURoYWZOaklEYnFYS1RQMUtyV0piUmE5THE3d2ZRZlRSVC1ZeVZTMA?oc=5",
+      "summary": "Indonesia bolsters food system to navigate climate change threats &nbsp;&nbsp; ANTARA News",
+      "source": "ANTARA News",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "ASEAN Plus Three urges closer cooperation as regional risks mount - The Malaysian Reserve",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeWRfZlFYMkM5NXh2UXBlX195M2Q3b1VwR0tkRWNQdDJrTVd0am50NU5aTjJlVTZQRWRQR1EtRDUtYUN6X250Zl84LUY4VHdYMVNZTVZ2WWFXR0JRZnB0dzN1UUF2YVVmRnUyUUduM0JwSkUyVlpzZmR2Zk1aTXZfWThDQjhjRklxTWZEWGpTRlJoWFhicmUzN0J1Q1VaMXdtOWZIZ0t3ZHlYRUUwUXc?oc=5",
+      "summary": "ASEAN Plus Three urges closer cooperation as regional risks mount &nbsp;&nbsp; The Malaysian Reserve",
+      "source": "The Malaysian Reserve",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "Cambodian Prime Minister Hun Manet arrives in Manila for the 49th ASEAN Summit. (📸: ASEAN 2026 PH) - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlU0dEs3ZzlJTXoyY19mMmtSNDUtWVp3aW83TFNqRnh0TjFfeTJwdjNQOWtNQWxMMDhGbkRTQU9ERzg1clQ1bm1vQ3o0a3RsdGFCcmk0dEFlUW9jeDBldWd0WGlubDljUGVlQkQxaTN3SG5TcVgxMm1SY280aEZRSlJCNk9ZQ0xzSm1YdUdLUFlBMk1fSTl1eXJuUW1KdXUxazNFQVBNemdXVExpdTdVeWVTbTVXWVRzVWpvVXdtMUl3WTQ1WDBxWmpJZFlVeXVLNTlkUThpbw?oc=5",
+      "summary": "Cambodian Prime Minister Hun Manet arrives in Manila for the 49th ASEAN Summit. (📸: ASEAN 2026 PH) &nbsp;&nbsp; Facebook",
+      "source": "Facebook",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "Brazil and ASEAN deepen trade and production integration in Manila – Global South Institute - Brasil 247",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUZfZmxuMUpGaG5VSzlkY18tNHZxMDl5bWprX0xKYkwzWjJTMmVhRk1ZdEx2Q0wwV0JpX2FqdzRic25VZUs3OTdDTFM3VzQ1XzF1SEh5TEY3NU8xVGo4NEVYTWVzRFJsOUMwMk1FdklOZ3NMUXdSNkpaeER2cDVWa3BwV05lU1RmLUVVQU9tSXF2TUk4cWNFVmtkZzJmS19IWkp6U1A2aEJLR09LMFpYV2VtcjhaSFpJRlItSjFQYUZiVy16eTB1MzYwMWpjekhmUVdV?oc=5",
+      "summary": "Brazil and ASEAN deepen trade and production integration in Manila – Global South Institute &nbsp;&nbsp; Brasil 247",
+      "source": "Brasil 247",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "China Calls for ASEAN Unity Amid South China Sea Tensions at Regional Summit - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazl3cm5XeHFqOFJTT2E5M1F1eHVXTnVwSFI1eThianJQMEhOOG5GLWlMenFnOTVVS1BzWUtDTGRfR1NEMkxuUDhOaTNLWHJSWVBLeEoybUpOVTdoUE9LbkFsSkZXZXBZR2hfenNtbWQ1M21xZVI3MkRiV214MWI4dmwtdnkzcWJLbGlXclQ3eEc0clJNUGZiZDBfeWRpQk9mVUNvQUFBb0c?oc=5",
+      "summary": "China Calls for ASEAN Unity Amid South China Sea Tensions at Regional Summit &nbsp;&nbsp; Daily Tribune",
+      "source": "Daily Tribune",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "FG Urged To Act Fast To Avert Looming 2027 Food Crisis - Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGNaS2c4Nk12cThnRkRkMkd4MWxpR1ctcHNNUHJocEJROUt0MXNvUEptUDBLeVRIcDJ5eEZfZWNmMHJmeTdFM1o5aDVIVzNIT0MyUGg0N2U0SFRCb0ZUS2tjNlJZZkJ0U21fUzA3cHFRWEg3ZXB1SmdoNWJodnJUYlFjUTc?oc=5",
+      "summary": "FG Urged To Act Fast To Avert Looming 2027 Food Crisis &nbsp;&nbsp; Independent Newspaper Nigeria",
+      "source": "Independent Newspaper Nigeria",
+      "date": "2026-11-17",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "global",
+      "title": "Climate Talks Have Fights Ahead on Electrifying the Global Economy - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3h5NEJuX3BaV283eGg4akMtQzVoMDUzWFo3RjcySjdUeFYyUkVtYW05N3dES0dnejV2aUdhM1hSbUtHZ3ZTUmVmZHpoQ1FrdU1nZWEtenEzM09vWUV6MHNNQUdua2xHdkRVcmVsN25XOXdiTlk4S1pxTVctbF9zZFdCLVdTbEVKMW5IejBkaUhVdHpWeHR0X3hCX0ZEYWVyVXRWdXZuSmYwUjNPMWdpZDJRYkdrTGp4?oc=5",
+      "summary": "Climate Talks Have Fights Ahead on Electrifying the Global Economy &nbsp;&nbsp; Bloomberg.com",
       "source": "Bloomberg.com",
       "date": "2026-11-16",
       "source_level": "媒体/聚合线索，需核实",
@@ -14,10 +114,10 @@
     },
     {
       "category": "global",
-      "title": "Push to Electrify the Global Economy Stalls at UN Climate Talks - Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE43VUZPcnIzWHdTY0xzUlYzUy05U1B5U0ZfakhHUzZ2NXFOam04WjA0VzB5engxZE5zd2NR?oc=5",
-      "summary": "Push to Electrify the Global Economy Stalls at UN Climate Talks &nbsp;&nbsp; Howl.Link",
-      "source": "Howl.Link",
+      "title": "Push to Electrify the Global Economy Stalls at UN Climate Talks - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2NseHhzVVVOYmdwY1JJOW1qNGtURi1za05iT29fdHNkT1VsazdiN3hFNU90c0dmU3drS3FvdFBOZS1LYXdKTGxtV013eUxDVHItbS1iRWxrdWR0bVM2OEJmUUpQXy13aWZJWlZ2bE1jb1BJc1lCNE96Q2tlRldlMmNMb2JUS3VNdERsd3Y4SnE2RkRmVmJPdzg3SFljTXhRNENPX3BGNHI2cDRnSVZtdlFYY3hQb3hPb1MxNl9rMA?oc=5",
+      "summary": "Push to Electrify the Global Economy Stalls at UN Climate Talks &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
       "date": "2026-11-16",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
@@ -34,30 +134,30 @@
     },
     {
       "category": "global",
-      "title": "Climada Technologies: Swiss Cleantech's Climate Risk Analysis SaaS to Quantify Natural Disaster Economic Losses | Top 100 Swiss Innovations - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoUXEzQ2FhYzFTeHlNVWF1XzBnWkItZktmeDhMeHkxXzAtMkFvUk1oT0lRYUtFMjN5S1lNM2htRzN4RTRVMW9iNm85WEttR2c2LWtr?oc=5",
-      "summary": "Climada Technologies: Swiss Cleantech's Climate Risk Analysis SaaS to Quantify Natural Disaster Economic Losses | Top 100 Swiss Innovations &nbsp;&nbsp; eu.36kr.com",
-      "source": "eu.36kr.com",
+      "title": "Insurance leaders call for collective approach to climate resilience at COP31 - Reinsurance News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXpmVWZyRk5xQ01vbWFQLUMwdjA4RGRpTnJmZ0pYQ2NlNnBrMnBwYzctX0VwVTdCd1BMX2NYMURGOEM3ZTF3VWJGY3NRd1UwSGFMd1EyY1FIei1lNlNhUGc5REROcG1yZHJDeFhiZFFRRkVHYW1vcjJZdkQyZVlOanhuNTZWWXFyS2RtZWE4RUNyazFEUUJqdEhkU05sNmJOYVVlRmpaRzFrZk0?oc=5",
+      "summary": "Insurance leaders call for collective approach to climate resilience at COP31 &nbsp;&nbsp; Reinsurance News",
+      "source": "Reinsurance News",
       "date": "2026-11-16",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
     },
     {
       "category": "global",
-      "title": "Marcos Urges Asean Unity Amid Global Challenges - OneNews.PH",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVEtrc1c0VnlLV0RFRW9QT1FpeWJ6SjU3U29uYlRUQXNFN3Y2ZGtYNG9ibHg2R1B6Ump0MU11RVNYUHAtOENvQVFQbmUzb28yeTQwY1hCclBuM2RvVDhjTFBFRXNMdmk4dGw0SWZac0puMG9jOFRodEdvZzFNQ1B2SFBqRTQ5Zw?oc=5",
-      "summary": "Marcos Urges Asean Unity Amid Global Challenges &nbsp;&nbsp; OneNews.PH",
-      "source": "OneNews.PH",
+      "title": "Global: Insurance industry calls for climate resilience - Asia Insurance Review",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVQzTWJQX2RzUGZDZlluUng2eW9ZN0Ewb1ducjNBN3VNNF9fcEJHQVppdDRyVXI5NnhWWW1waWlHbFdhQXV6RGVuOTBEVG8xMEI1ekRsU2djN3d6cHFZVWlxV1VYX2pCT0E3Y2VQLTBlS3hxZG9QT1FzVndSQjQxdHgyUXZDMkwwajJLT2pYci1ZbmM4MGltcE94TG1tcWExSEVmdkZaakdPcjBkalB4d0NqNmlleXlIaXBYQ2N6bTNOVHVqVG9zU1lEQzBsV1oyUzhUcg?oc=5",
+      "summary": "Global: Insurance industry calls for climate resilience &nbsp;&nbsp; Asia Insurance Review",
+      "source": "Asia Insurance Review",
       "date": "2026-11-16",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
     },
     {
       "category": "global",
-      "title": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWNETVhQRVZfVEFUVm04a2lXSFYyelFneGVjZzBzX3JBUTVtTVBtV2lla3A4WFlNLXdkemNrUTlJU1NPSHY0cndnekNUUEM3UUhYZ0oteE1JUkxLbURQRHotSXQySks0Mk9iNTBINjR6Y2UwZUdBc0VSc05KZVJfaFVIX0lNRTBXSHBSbFVJOUdveWY0cXZTa2FISzRlSGRZaUxzQWxKT09SMXd3M2pHemFn0gG3AUFVX3lxTE4tczA2V0xCVThXVUZRak5EcXlPbFF6TmhMMkJmeE02YWdvYUF4NjNuN1dGNE9SdXNsMGloSWRieHc0X3B5VEUyVUp6am00VjlqOU1DaVRUeTlEaFJFS3FmMVdSNjBqMFo3SmQyRHFkWVdjOS1YSjh6MDdIc3pndEpQaHd1TmppblR5ellDTVM4eW9uTXgzVlNlQkdUTFVNM1ZDUXhndXJVMW5kc1piaHZzdFhMRDBFTQ?oc=5",
-      "summary": "Southeast Asian leaders open annual summit with major conflicts and their impact topping the agenda &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Brazil Feeds the World but Imports Its Fertilizers: Why Global Agriculture Is at Risk - AgroLatam",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVZ5VTMydjY1Y2tXcXhYMlRqUlE0c2RqNEFtYUpVOS1XNDdwMXFHeTJ1RDV6WmFQZlhiWUk4V01Id180WUdZclpwZ19lbWNQR19oNnlSRXJZV2pxYmRkcThidkhSU0ROUm9Pd25uaVlZc3Zhazd5WldJMlZCNFBvQkFtZ1VvUlJBb0E?oc=5",
+      "summary": "Brazil Feeds the World but Imports Its Fertilizers: Why Global Agriculture Is at Risk &nbsp;&nbsp; AgroLatam",
+      "source": "AgroLatam",
       "date": "2026-11-15",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
@@ -84,16 +184,6 @@
     },
     {
       "category": "global",
-      "title": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GMU54SnZyRFRIa0JwNnM3SVNLUXRwX0ljUGp6UjQ2OXRLODZtd2JqQ3BablVqUHZJT1JCWWxSX0tYNHpxVE45c1BKRi00LUZCYUkza3VSQzlJVGhUZHhQM2w5eEE5TjZ1WUtPbm5sN3E0Z1hxcnFrQmN3?oc=5",
-      "summary": "Fatih Birol: The Energy World Will Never Be the Same As Before the Iran War &nbsp;&nbsp; Time Magazine",
-      "source": "Time Magazine",
-      "date": "2026-11-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
       "title": "Ag experts: NC could lead US in food security, but national strategy needed - Carolina Journal",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWhsaG5hNEdoaDd5RHBlTjZ2N2U3Mm1CZU1nUm9ETXVBQUE2VmdtUEc3ZnFwRFFHZ2FTa1dsNGZiSmVkMUNhLTdyczAtRGh5TWVaYnl0UnZfUGU5dVdLRmFGMWRCbWswYTJkV2swdWZIeENISmtRNGEzRGxhV196d2hVNkRPTy1ucVJvdDlGRlRWWkhOSWFPVGpMNTVxeE1MMEJseUlKWnRiQQ?oc=5",
       "summary": "Ag experts: NC could lead US in food security, but national strategy needed &nbsp;&nbsp; Carolina Journal",
@@ -113,56 +203,6 @@
       "verification": "待打开原文核实"
     },
     {
-      "category": "global",
-      "title": "Review Shows Climate Stress, Water Scarcity, and Conflict Compound Food Insecurity - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWdDQWZQbVRIMXFObXh2eXQ1THc3TGxhYUg0aklzMVI2MFozLTg5VEthZUJwMlNHQlRoN2Rpc215bEZBTU1xcThzbkRGdmlDZUZFUVY0M1NkNjhaSVdyVzFHVmN2bXJpbWxNU0FRa0ZxSWRXNTIxc243dVJrNXlaYy1CX2RJdTlzNXN4MEwwck9TbER6YlFsTDdLQ2RGRFR2dDE2cXdaU3c?oc=5",
-      "summary": "Review Shows Climate Stress, Water Scarcity, and Conflict Compound Food Insecurity &nbsp;&nbsp; Bioengineer.org",
-      "source": "Bioengineer.org",
-      "date": "2026-11-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "USGS forecasts critical minerals supplies - Metal Tech News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTFxQUp2SnByazh1SjRIei1JYjhBTHpLQVJ4WkRHeWthVU5TOTEyMlVYdU0wOUMxTUxsS2ZiNllsMkpKYU0zMmVRZDV5SC1IamNLcDJxM2ZJcDdDc0QwZlFXeEVid2tFWGxqcTd0SVRObFlWdGNxV3hFNzlCQnNxbm1QeHVSTzhITWREZHY4V21laGluOEdjQmxwQWN0T3piaEVTZkVBQlhkVlVQVkNV?oc=5",
-      "summary": "USGS forecasts critical minerals supplies &nbsp;&nbsp; Metal Tech News",
-      "source": "Metal Tech News",
-      "date": "2026-11-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "The COP paradox: Why climate diplomacy is failing to deliver climate justice - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZDZIYUNkbmNaQ09DQ0hLb1BuTzc2NU5yVzVUNDRzYTJHTlBVckFWTWsxYTNEQnE5QnVKQXBWamp4V0pfckx4M3RlUS1TQkN0MndVLTllMS1GLTFwVGl5aU5fZXp2b295QmhWbFVOT1NnWGNncHd0LWdTU1dVbUxSamVzS2dGamJ3endCR2VLTFppUkx3enZTdXdpenRKaERVY2NkSmppekxaX0JkSEgwM3MzcHNoRXJaZTh0SHBVaGhacS1YdzVUZkpGU1NxRmlVbERSN0QzZ19lYnZX?oc=5",
-      "summary": "The COP paradox: Why climate diplomacy is failing to deliver climate justice &nbsp;&nbsp; The Daily Star",
-      "source": "The Daily Star",
-      "date": "2026-11-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Lula opens new chapter in relations with Asia and expands strategic partnership with the Philippines - Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR1FYTEVmeklQTU1OTlhTWWx4YTdYX3BjbFNRMExWS2xESVdsUHJ3ZkdWMmhxM3ZPWVZuMTNVVGIzcEcwNnlUYjktb1NkUFlYWGFQaFRtTnRfbHRHQ0JlSXBxdkNvaUQyVW1hTF9lbFZWeGNMMk50dTZLTmFRaEhicTV0azNHOV9Ic0k5UjJZUFZmYkVnWENSSDNsNTdteUZSeDdVOEtQcGJUczhQeU5seUo1eXVJQ0QtYzlYX2RJVlBqVUx3ci1LQ2pMZkMtQ3RaQl9QZTM4QV9JYzhpUXA2bGdpWHJ1VmFkTFJJS1pnZE1Tanh6S0pNM1Y4Zw?oc=5",
-      "summary": "Lula opens new chapter in relations with Asia and expands strategic partnership with the Philippines &nbsp;&nbsp; Brasil 247",
-      "source": "Brasil 247",
-      "date": "2026-11-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Canada, Philippines conclude FTA negotiations, deal expected in 2027: Carney - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnFzcHVrd0ttejZFd0dqRWxXMFRfcWg3YTBPOHJ4bEVISnljOHNOOGxxaVVTWVM2N0dwTWN6bFZBb2d4ckJ4ZElIMkVIQXBPbVFfaXZXTUd2cnByUUdCV2piNUw0YjROOFNPVi1wazI1dTllQjh2akFudFRId3ZxSG9PNENFaTVCM1pqaTA1QXhQOWp0c3hJZWYzajVsQXQwNjJpOUtBVnpNd0hsYXdNUkREWkVnSVNsR1A40gHAAUFVX3lxTFBJVGh3eXV4NDMzMlVzVlA1YWV2ckFrUWdyM3lOWUxVWkpfRHlNQWw2NHlvZ3lwOXltczFIR3pFU2hGZDA4MFZmemRmZG5qRWJ2NnRaYlh2WEVQS0FLQ011UVVqaFFmMEI3ZllvSTBxZWhqYk9TX1hBbVBWMXFiMjB5NG9BQ0d4M1lCRWF5SHJUZG80M25IS3BEakJmWmdVRUxXMVQ4LUs2NXJFdUVpOEY2R0FDVlc2NzBLRGtKOWxfYw?oc=5",
-      "summary": "Canada, Philippines conclude FTA negotiations, deal expected in 2027: Carney &nbsp;&nbsp; Firstpost",
-      "source": "Firstpost",
-      "date": "2026-11-14",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
       "category": "visa",
       "title": "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream - Immigration and citizenship Website",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXUydVpQYVZraWRXYUtfcEIyazBxWjBnd1VnQUtzdmktX2Y4WnRnZWM5bmJidUZFWmo4SVFGTmppb3NmRVpsM3Z4RnFVcm0zYkFkR1JsVGdHQkJTaTVhTDZNbndGeVM3elVYcnR4YThzQUJJbjNWQlh5LUtISHd6NXVUeFJHTmtqYUZkdExEaW9qbVEyU2lJa0JCWU9jbU5MOGg2VzN1MkU3aEhxSWdmTDAxcnhSQQ?oc=5",
@@ -170,26 +210,6 @@
       "source": "Immigration and citizenship Website",
       "date": "2026-11-13",
       "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "India Skilled Work Visa - Immigration New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kekc3b0tseExTSDZpUlZydUZfa2ZldmFjdlROMzFwUVVGbERYUDBUYkNkRVVJT1JfM1UtcG1IWTdiWFN6UHAxMHYtaWlfUzU4bFByUUNtS0NUNzJtQTV1Y3dVd09aaUpRcUR3enlVRQ?oc=5",
-      "summary": "India Skilled Work Visa &nbsp;&nbsp; Immigration New Zealand",
-      "source": "Immigration New Zealand",
-      "date": "2026-11-13",
-      "source_level": "政府/官方来源",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "Visitor Visa - Immigration New Zealand",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1cWNySUlNbFVfZ2gyZ28tQjdVQjFRaTkxcGxJRHh0ekI5WW9PR0hUX1I1akx0LVBwdkcxa19rNFpwN1ljb2R1Mm1FcHlpR2R0SmoxeTlMYVBkamxEYkYybA?oc=5",
-      "summary": "Visitor Visa &nbsp;&nbsp; Immigration New Zealand",
-      "source": "Immigration New Zealand",
-      "date": "2026-11-13",
-      "source_level": "政府/官方来源",
       "verification": "待打开原文核实"
     },
     {
@@ -203,51 +223,21 @@
       "verification": "待打开原文核实"
     },
     {
+      "category": "visa",
+      "title": "Requirements for India Skilled Work Visa jobs - Immigration New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVNnR3lGTGdONExJZXJZRjFMVlVWS1d6bVc1SE40dlA4UkZIQ3JfcHZqSmVlYnhKbzZVajc3NUJtUzJHMFNVRWxRekhVMjdYbnA3VnI0NzN6NVFJRUNvU1F5dVlONVFGUnFESlF0UXMzN2RvSU03RVdOWEdfZzQ5QUF0ZjZfVjl6cDVGVVFwWG5CcmNDTmc1c0xER2kyM3pkVXZiZjhZa3Z1a3hZSmJVYg?oc=5",
+      "summary": "Requirements for India Skilled Work Visa jobs &nbsp;&nbsp; Immigration New Zealand",
+      "source": "Immigration New Zealand",
+      "date": "2026-11-13",
+      "source_level": "政府/官方来源",
+      "verification": "待打开原文核实"
+    },
+    {
       "category": "jobs",
       "title": "Crystal Crop Protection to Launch Rs 455 Crore IPO on November 18 - Global Agriculture",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2dIWDFsc0tUb0FSUUsxaWNfZTNQdno3UjgtREdzcnR0Z3JKRGJDV0NKRkhGT0trcGUtNW1XWDg4MUZKYWtBOWsyUnhyclFnaDdoWjhlZXkwM2RFTXl4dWlmZm00eWg0YndoU3l4SU43djl1VV81QjVtQmlXcndaWHJQMkVCanpGZzdtRUFvcDktRF9RaDJQWmtqUHU2aE45YXplVWJtenZXRnQ1M1RjcWowdEFlX0xEV2NoSlhiQ3pQUzJUWXZObDZPcTBCMW9jS3RXYg?oc=5",
       "summary": "Crystal Crop Protection to Launch Rs 455 Crore IPO on November 18 &nbsp;&nbsp; Global Agriculture",
       "source": "Global Agriculture",
-      "date": "2026-11-13",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Circular Economy - https://environment.ec.europa.eu/index_en",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZeUQ0WmpYVmFpTEl6dlJFMDZLTkdHOFVXZnJhX1A0U3E5bHRzemZsWWliblZYdUc0RmlzWXhVWnBxZnNDVTlJQXRfb2lQZkwyVEJrZXVTelBsNHRCMlgzLTFGaFJYbkUzUzdwek1B?oc=5",
-      "summary": "Circular Economy &nbsp;&nbsp; https://environment.ec.europa.eu/index_en",
-      "source": "https://environment.ec.europa.eu/index_en",
-      "date": "2026-11-13",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "As Trump abandons America’s allies, Governor Newsom rallies world leaders at UN climate summit, meets with Brazil’s President Lula, and signs new partnership with Portugal - California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd0hVOHRZTHFNc28xanRaUjlYbkNUUE5nWDZubjBublZOak1VTVZkdHVpMnF1dUQtRDJ6WVlMQmx1a2pBRFRrRk5WZkNNWUNXaXhQV3NDeXVpdk5PZmJ5eE10dHJEeTliMXoxc3E5Zk42MzYya3FvWExRcE1PaTh2UlctMGh4dHBhUjRjN0tlLUZ4MmtjRERtVGFNUWNSODQtTUFDa0JfQm1PNlowR2J6QllzV0NhSVo4UEVNNjdFZUtwRWE3ZzBSZjVWZWZUWFY1ckcyNVBpejBzcDhHYVZiUzVwN1hzVGd6WWxPMHJ6ZFViN2NXSm53REpmUkpPZDdNTG5ZZHEzUDYwMW4wTmdMUlVkRDA2dGVrQ01SOWxxMHJsUmUyek9hdg?oc=5",
-      "summary": "As Trump abandons America’s allies, Governor Newsom rallies world leaders at UN climate summit, meets with Brazil’s President Lula, and signs new partnership with Portugal &nbsp;&nbsp; California State Portal | CA.gov",
-      "source": "California State Portal | CA.gov",
-      "date": "2026-11-13",
-      "source_level": "机构来源",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "From Paradise to Antalya: Governor Newsom and First Partner open COP31 with global wildfire exchange in Türkiye - California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSUk3SllRalRKUnRiODI2bEF0MnRYRUhkdzlNUzBvWXlBd25JSHRpZE5XY2UzS0RXemNhT05Ta01tbVl1RE1XZkxnWDhDbzNoMVhObGNDODlqZzctSUh6Vm9yNEJtUjAxS0htS0NScnl1V3pVT1V1anNBQjdUeS10bU95OE9sVmJzYmE3ckREdWlDQkN0V3ktaEFqc3VIMjAwblEyQzlZancxZFhKN2taVGJUeDlJYWNmajI3ZUVzc0dGdENxbkNDcDBSNTJpOVFJeEtfQWZvTkpFdnlBMXc?oc=5",
-      "summary": "From Paradise to Antalya: Governor Newsom and First Partner open COP31 with global wildfire exchange in Türkiye &nbsp;&nbsp; California State Portal | CA.gov",
-      "source": "California State Portal | CA.gov",
-      "date": "2026-11-13",
-      "source_level": "机构来源",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "global",
-      "title": "Economics, not climate summits, will dictate the net-zero transition - New Scientist",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3hYaG43dFRwdFVIZ3hqYXh2VlBjWk5ra282UkczTE4yY1A3S1haT1VLb3luM3lYREdXMU5mVDhTbEUxNWdvazVRUnRNU1BjVUVYTGFCaHRtaWQ5eGRoU0U1ZVowUjJyTUk0Nm5RVW8zWWRnZFMwbWhmLUtnMkQ2OXhSQThUUVhCTVkzSXpKaV9SeEdOeGhnc1FVZk8teWpXMWZGdXduRktHeFNlZFVoVnpn?oc=5",
-      "summary": "Economics, not climate summits, will dictate the net-zero transition &nbsp;&nbsp; New Scientist",
-      "source": "New Scientist",
       "date": "2026-11-13",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
@@ -294,16 +284,6 @@
     },
     {
       "category": "visa",
-      "title": "Immigration and citizenship Website - Immigration and citizenship Website",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZHVUdDlKX0hXd0JzQTJwU0RSWlZVcE1aa21CYUhIMUd1RHZwTjIwWVZqUkktTThFbVBqQzFJSnFrMmVsanBVSGt1U05LVlF4SVFMYlhlREFRZEM5cVhHMjY3dDNRcEZwYXp0ZFljSzl0c01vZjZRYjYzc0F2cjFqTm5keWtiUQ?oc=5",
-      "summary": "Immigration and citizenship Website &nbsp;&nbsp; Immigration and citizenship Website",
-      "source": "Immigration and citizenship Website",
-      "date": "2026-11-10",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
       "title": "Changes for resident visa applications if dependent children are unlawfully in New Zealand - Immigration New Zealand",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZVRfT0pGbUk0MVJxVGpkMTF2VjF5SUxfTS1QUGVRa3FFVDh5c0FiTjhFektDeHZYbDgxZEdvX2dONWtWaXZUbU8yX29rNkNtZXhUbFpwWENCcHpCVFlTdk01SERjN2VQYUIwdUx0dVExaS1NcXpGVFJoTWhXY2dTbjRVUmhJVWZEVU5vNlFhRmE2WmhiQzYyY3ZST0p6Q0dHUkZ6LUJpdm12Y3dLZWZaUnc4Z2NfcC0tRGhGWm5QaE5vcUFwWVpEcUlqQWFfZjBIOUd4czRTdFhxcUZs?oc=5",
       "summary": "Changes for resident visa applications if dependent children are unlawfully in New Zealand &nbsp;&nbsp; Immigration New Zealand",
@@ -314,31 +294,21 @@
     },
     {
       "category": "visa",
-      "title": "Rural Community Immigration Program: Apply for permanent residence - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVnRsLVpheXRKRW5iQVh6QlRkdy1fR05abllCM0hBSzVzelU2X2VGbnRvWmo5RFp5S1I1dVNQcnRmR2JmUUxRTF9WNUVlVkxYN3VpUjdlbVY4ZWw0QzRnQnJQVGRCUkVQdEJpcU05QkRXMWgtNXMxMDFZc29jN2ZfUVloZGcyQzdPb3VFWGZxeUdQbFRuTllUbm56cWNGcTRacWlvVDBBSTJUSktpQ3hUc1hQeWlnLXh6NWhORWhDN3luaW1TTHFSNzhMMXU3Tk5yYUdTVjBBRnBVRmpDLTFLb3lPOTk5cTNNN3c?oc=5",
-      "summary": "Rural Community Immigration Program: Apply for permanent residence &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-11-10",
+      "title": "Immigration and citizenship Website - Immigration and citizenship Website",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zSWtQWEhOUHVUdmY1TzNpdXpNOXNBSHVKa2hDejJjb1NFSkNVTXlxa18yUGpFSDhrR2huRjhITXdwaGItTEEtUVdEZENYN1FPaGlla2VhTXRiZXh3eE1ycGJhYjVrd3ZTT1dudEpNbndVRm8?oc=5",
+      "summary": "Immigration and citizenship Website &nbsp;&nbsp; Immigration and citizenship Website",
+      "source": "Immigration and citizenship Website",
+      "date": "2026-11-05",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
     },
     {
       "category": "visa",
-      "title": "Rural Community Immigration Program - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLW1lN1plTm9oM2g0OWtqa1d1THVoQzJFTWhXcGpRUUlUbXVXOW5pSzdzMGdQU0xyRFBleGswaS05SnVkSnVxVHlnVy1Bb1dEUnNOTUlGTmlXTmpWZ1FqOElSZDZMcUFfVE43dDh2cVhiU0ZhelhyQmNqXzJCRmNCOUJrRWJvR1gyLWQzcjIza1psWUpVUEZNcE8tMFVmMlRjNzZySEE5aU92TUZzcy1nOE84bFlqem9rT2REUFNwVlQ2Wk9MbUFSaGw0ejdQd0Q2NElFYi12Y2NNcTRiSGc0?oc=5",
-      "summary": "Rural Community Immigration Program &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-11-10",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "Rural Community Immigration Program: Optional: Work permit - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbldmMUZBenc4aEY2OGRDekhLQW01VDgzbVd6MzVManN3ODdjZEg4YmZ6ekdTZV9pWXJFbVF0bXJtQnFGUjkyeDJmblRvMzlnMm1CcGROYUFlcjJJaVBidDJOUUkxSnlxeElIUV9rV1RvMDM5NmUydDVQbzZvSFlRMk12Z3lCQkFQQ3RYbVMxdTRVMC1GTEVLZy01SmpmRGJxY2pPTXlveHV4THZuekV4RGdFYjlmNktlU1Rjemo5bFR0TEUwNWVKQzN4Q3l1dkgxMXFqY0pNdFFsd0xDN2N3?oc=5",
-      "summary": "Rural Community Immigration Program: Optional: Work permit &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-11-10",
+      "title": "Industry labour agreements - Immigration and citizenship Website",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnU1dzJZNWV1MWhkSVJLbk5aQTNPcjlBejJTNV84NGpOOFVkbGNpVWJFeTFVdTZLZy1QbHN6eFJ1eFduSzNWZ1RVU2ltRGZGd3dvNFg3dFdZTElVTVlEOGFaVjhHbXRGTHlIbW95UUQ3WTllVlFWVmF6alRrVzQ1ZDFXTVNGeDRBMmdiVUc4aGxqZkhJemlyeHVVLTAyVGtGVGY4UHFySmJBYVJoa2FYQl9RLS05X1ljSk5JelFyd0hmMWpnaHF4QUhqTkJSZUdKdlFHdjduRzVYUQ?oc=5",
+      "summary": "Industry labour agreements &nbsp;&nbsp; Immigration and citizenship Website",
+      "source": "Immigration and citizenship Website",
+      "date": "2026-11-05",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
     },
@@ -347,16 +317,6 @@
       "title": "Subclass 887 Skilled Regional visa - Immigration and citizenship Website",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVdsMFdUR0U1aDJ2VjJrMUktWnA5N1oyRFJqSVdnVTZZVHZRV19XSHBCeTNtenBKSUFUUWlXaV9lN0Z3OUZfSHYtOXJ5RG5SUTdZMDdyVjc3MlZDRmVtRGdlSTdCdGJ3NnUzdVFYdVE1WmFVX2RFVDdvMzNDMEZRQ1BaOGl5X3BQYmNWZmYtZw?oc=5",
       "summary": "Subclass 887 Skilled Regional visa &nbsp;&nbsp; Immigration and citizenship Website",
-      "source": "Immigration and citizenship Website",
-      "date": "2026-11-05",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "Using a migration agent - Immigration and citizenship Website",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHlVMnJuVDdvZUJYWmtGNU10UGJjcXlYMU5IdnNiWkpLYTNmT3JXNmJMdzM4elg4U3Rybmlzd3Mxa2tvWnJLSWJSNlBSMFJaZzgyTXRNSmRFZUlFR1FkRlJ3V0xDemNXWGZVZTFTMDlNMWIyeVlFYUxLcC1MZE5YNk91QkFpQ1Z2TFpROEk5OVpKY0V0Zmhhd3R0T1kzOUdTTU1iTGdR?oc=5",
-      "summary": "Using a migration agent &nbsp;&nbsp; Immigration and citizenship Website",
       "source": "Immigration and citizenship Website",
       "date": "2026-11-05",
       "source_level": "媒体/聚合线索，需核实",
@@ -383,32 +343,32 @@
       "verification": "待打开原文核实"
     },
     {
-      "category": "visa",
-      "title": "2026 Annual Report to Parliament on Immigration - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVdBbGs4Yl9NVEZ3Ym5ndWRtRnF5VkxSMGFkaXFaOXRNMEVGaXFvdXU5b1BUdzZ2dmswdUIxZDN3T29FUWE2VmhrQ25qZVlCVXZSNjlHZzR4Wmk2bmxOSGJzV1k1ZU9mU3FQQ0hQaURNelB4c1ZQRWkzbHpuWlVSNTFhUWJ6R2RubmlDV2JjLURHREpjNkZCdlAzN3c2czRHS1B0LXdidm5FQTNUOGNuaWVpUkt1YTVrb1hicmhDdnBhandQVDYzWkxIM3lqUzNw?oc=5",
-      "summary": "2026 Annual Report to Parliament on Immigration &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-11-05",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
-      "category": "visa",
-      "title": "Supplementary Information for the 2027-2029 Immigration Levels Plan - Canada.ca",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVNDeXRBY2xKb21JTzYzN2c0Z0VzN3F5cHVPemFRLVdwZUhRZ3pUd1p2dGJhNFF1eHp5aWZOeDVqUGFmaXltS1hySl9mM210YnRlZ1RxOE1vb01UNzBNbGV6Sk1YdldETTRaejhfeVRmNVVYNlpLc0tucDF2aS1BdUFqNjRyMjJ0V3JQbDNRZGgyUXdGSVpHZk5NUmdnaXF1b3UtMGZOQ1VCZU15cl8wcndUMWtOTm1aSVJWV291MV9IQzU5NVhZZWtDUFZadzlmejdOSlN1ck0?oc=5",
-      "summary": "Supplementary Information for the 2027-2029 Immigration Levels Plan &nbsp;&nbsp; Canada.ca",
-      "source": "Canada.ca",
-      "date": "2026-11-05",
-      "source_level": "媒体/聚合线索，需核实",
-      "verification": "待打开原文核实"
-    },
-    {
       "category": "plant",
       "title": "Don’t let pests eat into your maize profits - Times of Eswatini",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDlxeHZ6RFVJVzUyMDV4THRSLTkwbnJTMjZkTklacE04alFsd1hzaFBBd19NVkdQajQ2TVJ0MUhxUk1USGNGUFZhMmtMOWtDMXdxX2Z0UHBwN3p4VGJJTm5CZ2tYMnFxX21fekhZS1JyN3h1WEh5VmVycWpFNlFDblNZbC0?oc=5",
       "summary": "Don’t let pests eat into your maize profits &nbsp;&nbsp; Times of Eswatini",
       "source": "Times of Eswatini",
       "date": "2026-11-04",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "visa",
+      "title": "Changes to the Green List from 8 March 2027 - Immigration New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjc2WXJqV0YwQWhKWl9SdGJrd05iLUticWhhd0preDA1ZmktVDA5aHp6SWFFTHJzaHFiN0RDekpZdks0T1hEVkdSTjRlM2NYT0twbURjTnFIR2VKcjNpTXZ0MjJYcjZ1VFBZR3M2TDRtVnJKODBRc1dfMjl6NllsTWtqRG82RXJtWTA1dDVqcGZKbElVVjdreEs0TQ?oc=5",
+      "summary": "Changes to the Green List from 8 March 2027 &nbsp;&nbsp; Immigration New Zealand",
+      "source": "Immigration New Zealand",
+      "date": "2026-11-03",
+      "source_level": "政府/官方来源",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "visa",
+      "title": "Visa processing times - Immigration and citizenship Website",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b0xJR3NfTnpvbWk1NGNuVDEzMUlZWEJHZWUtZXoyVmlfeVNTS1BYVDNLcVBLYV9SWjdkVjh1b0htVkxWVzNOd1UxT1puWDd6MGhBMFZpb2dORloxRGpKOEtUeWZ5Z09wTEoydUxKTVVNc0FQLWtKOTN6NDJiMzA?oc=5",
+      "summary": "Visa processing times &nbsp;&nbsp; Immigration and citizenship Website",
+      "source": "Immigration and citizenship Website",
+      "date": "2026-11-02",
       "source_level": "媒体/聚合线索，需核实",
       "verification": "待打开原文核实"
     },
@@ -424,9 +384,19 @@
     },
     {
       "category": "visa",
-      "title": "Visa processing times - Immigration and citizenship Website",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXhaWlNmQVk4YWpBRmZFYWpZck1TWjhwaTZZc21vcFhRRUx5S2M0eFFZSndtanhKaDNKWjJ4VlZjZklNaVhDQzM4UW51blY0ZW9oTU95SWg2MWhKdnBQQ09DMF93Mi14dHhseVAxTmZqMDZ5M1A2Qk1la2Y0dTU0UUVscU94UXBJcnpZ?oc=5",
-      "summary": "Visa processing times &nbsp;&nbsp; Immigration and citizenship Website",
+      "title": "Employer Nomination Scheme (subclass 186) visa - Immigration and citizenship Website",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUZ6X29MWGVGbjRQME9Ra0R1dU9YeFd5NHQxblFUbC16TVdXYnFvcFRUMVVZTmFIMUpjVkNDMTBFWXBnZGUxTWFTeF9KWS1xdmpEeXFxajk5QVFYQWpwY0h3bFJLUUpTRWg0N1Bxal8wRjVDcHMxQVJiUEgtSzU2UkVHLWc4SktXWi04MWhuX3V3R290aE5fUTNScG0?oc=5",
+      "summary": "Employer Nomination Scheme (subclass 186) visa &nbsp;&nbsp; Immigration and citizenship Website",
+      "source": "Immigration and citizenship Website",
+      "date": "2026-11-02",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "visa",
+      "title": "Character requirements for visas - Immigration and citizenship Website",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEpYTkVQWklDaDVpOU1pRzEzVkNJVTRnN3Q3SkZSd3YtbWZ0bEVZUGIyeDhKUW1ZVllMR01vNTZYR1dGTll5bkp3am1ZQjFYRHg5dU1DMktxY0lvVnZwMi16b1pCZEMtOWdtbF95WXFXQUFyT0p2ZXJxWkZnS01wQ1B4cl9OQQ?oc=5",
+      "summary": "Character requirements for visas &nbsp;&nbsp; Immigration and citizenship Website",
       "source": "Immigration and citizenship Website",
       "date": "2026-11-02",
       "source_level": "媒体/聚合线索，需核实",
@@ -443,6 +413,16 @@
       "verification": "待打开原文核实"
     },
     {
+      "category": "visa",
+      "title": "Subclass 407 Training visa - Immigration and citizenship Website",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlROWR6U2xrRFcxZVJzWTRGNkZrVU1jNTlUc2NBb1Q2QmFkZ1FTWkJHZ0U4OFFHTmFJUmN2T0Q5aXprTEIwU2ZqQ1Q5blRneDBKQ2ZscC1UajNzTThLZXlUVk1MT3FpUktLZjNpYTZDdUZEUkVUaHVnR0VSZ0VydTNNd0U?oc=5",
+      "summary": "Subclass 407 Training visa &nbsp;&nbsp; Immigration and citizenship Website",
+      "source": "Immigration and citizenship Website",
+      "date": "2026-10-30",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
       "category": "plant",
       "title": "Agricultural sciences - Crop, Animal, Soil - Britannica",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fWndsU1NLbzllYkozSnEwVnQxeWUyRkQ0S2Ita041eGJ2eUpOc1RqQ18xWm5mMktEaDM1U1NjTEI2NGt5cEtCQTJwaDJTcWNFQ3BSTkQ0Q2ZMZ3JjVWpHVzlWM2RVdWdQbGFHQTViQk1UOVNhYTkwVmxkVFA?oc=5",
@@ -454,12 +434,32 @@
     },
     {
       "category": "plant",
-      "title": "The 2027 Southeast Michigan Vegetable and Field Crop Grower Winter Meeting is set for February 18 - Michigan State University",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0FtUHVlYnJYa3RjTl9XWWFLdG9jZVpiSFZUQ0pFQmhWODNta0ZBWFVCa2tSdVVESnk4NGktN0R2ZHRYcGdnbnczbkV5dGl6RkVGY0RuVUhBYU9Ud2t4N1VqRlJGM2NkUDJqS2RNMVNWVklfcmdkUlRPc3cxX0RlNVcyM0lSQ1FBdm9Ydy1iVkNCRy1pbEdnZHZWSQ?oc=5",
-      "summary": "The 2027 Southeast Michigan Vegetable and Field Crop Grower Winter Meeting is set for February 18 &nbsp;&nbsp; Michigan State University",
-      "source": "Michigan State University",
-      "date": "2026-10-29",
-      "source_level": "机构来源",
+      "title": "Agricultural sciences - Soil, Crop, Animal - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObG84S1NmQ3NJZEVtMVQ2RVN3OHA0blpfQ2twZHpGWTFQSmlQcTdjSmF4Vm44aHdCZGo0eVM5T1R0RXB3dVpxYWdZOGJFbWg4eng5bFhleW4wcFRBNG1OOEZmMmVSc3VHeDExQVFzQ1QySWtXWUppaTNBS0tSVVRpcHpHNng0OFNzckI2Zw?oc=5",
+      "summary": "Agricultural sciences - Soil, Crop, Animal &nbsp;&nbsp; Britannica",
+      "source": "Britannica",
+      "date": "2026-10-30",
+      "source_level": "媒体/聚合线索，需核实",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "visa",
+      "title": "India Skilled Work Visa - Immigration New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kekc3b0tseExTSDZpUlZydUZfa2ZldmFjdlROMzFwUVVGbERYUDBUYkNkRVVJT1JfM1UtcG1IWTdiWFN6UHAxMHYtaWlfUzU4bFByUUNtS0NUNzJtQTV1Y3dVd09aaUpRcUR3enlVRQ?oc=5",
+      "summary": "India Skilled Work Visa &nbsp;&nbsp; Immigration New Zealand",
+      "source": "Immigration New Zealand",
+      "date": "2026-10-20",
+      "source_level": "政府/官方来源",
+      "verification": "待打开原文核实"
+    },
+    {
+      "category": "visa",
+      "title": "Using your English-speaking background - Immigration New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVVFxeUFPSzM2Z2ZsY2hqbk1LZi1tMkFWcEI2d3RzNkhOVnBiVDRoOUlwbVEtaS1MUno3akJHSGpBd0pxUVMwZXlHOXRBbzlqZjUtZnVPQ0ZnWHQ5WG1NVVBtU1o3cGlCdVZHT1g5cl9QekVoOEZaeWIxdG1KR21hejF5dE43WGtSVmZDRGhpWXdZUVVHRl9IX285M09mTkFTRkV3X3RqaHpPRkgwclk5ZHh2ZmFtbUJPY19RM2FkbHZlMEpHbmphU0FTWmlvSVB6R1VwcWxJWGlDbXFEcnlYeDMwMlVZRVBqdVRpMHhhdUZMdnp1X3RHNTJZYzA4Tlg4S25LekJpWC1DM2pQQ09wZFQ0YU5PNFZoaXhYb2lmTTZsamlreFJmTjJaeEY?oc=5",
+      "summary": "Using your English-speaking background &nbsp;&nbsp; Immigration New Zealand",
+      "source": "Immigration New Zealand",
+      "date": "2026-10-20",
+      "source_level": "政府/官方来源",
       "verification": "待打开原文核实"
     },
     {
